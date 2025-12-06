@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BoardGame_Classes.h" />
+    <ClInclude Include="FourInRow_Classes.h" />
     <ClInclude Include="Game7_FourByFour.h" />
     <ClInclude Include="InfinityXO_Classes.h" />
     <ClInclude Include="MisereXO_Classes.h" />
@@ -28,6 +29,7 @@
     <ClInclude Include="TTT5x5.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="FourInRow_Classes.cpp" />
     <ClCompile Include="Game7_FourByFour.cpp" />
     <ClCompile Include="InfinityXO_Classes.cpp" />
     <ClCompile Include="Main.cpp" />

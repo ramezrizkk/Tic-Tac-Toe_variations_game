@@ -36,6 +36,9 @@
     <ClInclude Include="MisereXO_Classes.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="FourInRow_Classes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="NumericalTTT_Classes.cpp">
@@ -57,6 +60,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="MisereXO_Classes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FourInRow_Classes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -6,6 +6,7 @@
 #include "InfinityXO_Classes.h"
 #include "TTT5x5.h"
 #include "MisereXO_Classes.h"
+#include "FourInRow_Classes.h"
 
 using namespace std;
 
@@ -20,7 +21,7 @@ int main() {
         cout << "4. Numerical Tic-Tac-Toe\n";
         cout << "5. 4x4 Moving Tokens\n";
         cout << "6. Infinity Tic-Tac-Toe\n";
-
+        cout << "7. Four In A Row\n";
         cout << "0. Exit\n";
         cout << "Enter your choice: ";
 
@@ -100,6 +101,14 @@ int main() {
             cout << "\n--- Starting Infinity XO Game ---\n";
             board_char = new InfinityXO_Board();
             ui_char = new InfinityXO_UI();
+            players_char = ui_char->setup_players();
+            GameManager<char> gm(board_char, players_char, ui_char);
+            gm.run();
+        }
+        else if (choice == 7) {
+            cout << "\n--- Starting Four-in-a-Row Game ---\n";
+            board_char = new FourInRow_Board();
+            ui_char = new FourInRow_UI();
             players_char = ui_char->setup_players();
             GameManager<char> gm(board_char, players_char, ui_char);
             gm.run();

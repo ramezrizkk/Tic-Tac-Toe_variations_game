@@ -45,32 +45,24 @@ bool FourInRow_Board::check_line(int x, int y, int dx, int dy, char symbol) {
     return count >= 4;
 }
 
-    bool FourInRow_Board::update_board(Move<char>*move) {
-        int column = move->get_y();
-        char symbol = move->get_symbol();
+bool FourInRow_Board::update_board(Move<char>*move) {
+    int column = move->get_y();
+    char symbol = move->get_symbol();
 
-        if (column < 0 || column >= columns) return false;
+    if (column < 0 || column >= columns) return false;
 
-        int row = find_empty_row(column);
-        if (row == -1) return false;  // Column full
+    int row = find_empty_row(column);
+    if (row == -1) return false;  // Column full
 
-        board[row][column] = toupper(symbol);
+    board[row][column] = toupper(symbol);
 
-        // store last move position
-        last_x = row;
-        last_y = column;
+    // store last move position
+    last_x = row;
+    last_y = column;
 
-        n_moves++;
-        return true;
-    }
-
-
-
-
-
-
-
-
+    n_moves++;
+    return true;
+}
 
 bool FourInRow_Board::is_win(Player<char>* player) {
     char sym = player->get_symbol();

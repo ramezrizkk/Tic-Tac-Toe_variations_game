@@ -25,6 +25,7 @@
     <ClInclude Include="InfinityXO_Classes.h" />
     <ClInclude Include="MisereXO_Classes.h" />
     <ClInclude Include="NumericalTTT_Classes.h" />
+    <ClInclude Include="ObstaclesTTT_Classes.h" />
     <ClInclude Include="SUS_Classes.h" />
     <ClInclude Include="TTT5x5.h" />
   </ItemGroup>
@@ -35,6 +36,7 @@
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="MisereXO_Classes.cpp" />
     <ClCompile Include="NumericalTTT_Classes.cpp" />
+    <ClCompile Include="ObstaclesTTT_Classes.cpp" />
     <ClCompile Include="SUS_Classes.cpp" />
     <ClCompile Include="TTT5x5.cpp" />
   </ItemGroup>

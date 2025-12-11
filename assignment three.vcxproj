@@ -20,19 +20,24 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BoardGame_Classes.h" />
+    <ClInclude Include="Diamond_Classes.h" />
     <ClInclude Include="FourInRow_Classes.h" />
+    <ClInclude Include="Game13_MemoryTTT.h" />
     <ClInclude Include="Game7_FourByFour.h" />
+    <ClInclude Include="Game8_Pyramid.h" />
     <ClInclude Include="InfinityXO_Classes.h" />
     <ClInclude Include="MisereXO_Classes.h" />
     <ClInclude Include="NumericalTTT_Classes.h" />
     <ClInclude Include="ObstaclesTTT_Classes.h" />
     <ClInclude Include="SUS_Classes.h" />
     <ClInclude Include="TTT5x5.h" />
+    <ClInclude Include="Ultimate_TTT_Board.h" />
     <ClInclude Include="wordTTT.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="FourInRow_Classes.cpp" />
     <ClCompile Include="Game7_FourByFour.cpp" />
+    <ClCompile Include="Game8_Pyramid.cpp" />
     <ClCompile Include="InfinityXO_Classes.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="MisereXO_Classes.cpp" />

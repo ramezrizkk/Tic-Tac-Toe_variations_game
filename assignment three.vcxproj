@@ -28,6 +28,7 @@
     <ClInclude Include="ObstaclesTTT_Classes.h" />
     <ClInclude Include="SUS_Classes.h" />
     <ClInclude Include="TTT5x5.h" />
+    <ClInclude Include="wordTTT.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="FourInRow_Classes.cpp" />
@@ -39,6 +40,7 @@
     <ClCompile Include="ObstaclesTTT_Classes.cpp" />
     <ClCompile Include="SUS_Classes.cpp" />
     <ClCompile Include="TTT5x5.cpp" />
+    <ClCompile Include="wordTTT.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="dic.txt" />

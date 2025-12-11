@@ -42,6 +42,9 @@
     <ClInclude Include="ObstaclesTTT_Classes.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="wordTTT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="NumericalTTT_Classes.cpp">
@@ -69,6 +72,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="ObstaclesTTT_Classes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="wordTTT.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

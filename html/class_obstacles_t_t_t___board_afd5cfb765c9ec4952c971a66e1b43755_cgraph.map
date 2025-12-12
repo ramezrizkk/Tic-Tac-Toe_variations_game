@@ -1,0 +1,7 @@
+<map id="ObstaclesTTT_Board::is_draw" name="ObstaclesTTT_Board::is_draw">
+<area shape="rect" id="Node000001" title="Checks if board is full without winner." alt="" coords="5,5,151,48"/>
+<area shape="rect" id="Node000002" href="$class_obstacles_t_t_t___board.html#a4959fa25514d7db79038a3578e941ef0" title="Checks if player has 4 in a row from last move." alt="" coords="199,5,344,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,24,186,26,180,27,151,29"/>
+<area shape="rect" id="Node000003" href="$class_player.html#af56f0bf98c0423a3a75b0848607d03a4" title="Get the player&#39;s symbol." alt="" coords="392,13,525,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="345,24,380,27,374,27,345,29"/>
+</map>

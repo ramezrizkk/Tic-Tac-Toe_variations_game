@@ -1,0 +1,5 @@
+<map id="NumericalTTT_UI::create_player" name="NumericalTTT_UI::create_player">
+<area shape="rect" id="Node000001" title="Creates a player of the specified type." alt="" coords="219,5,388,48"/>
+<area shape="rect" id="Node000002" href="$class_numerical_t_t_t___u_i.html#a0e1e3031a79cb3dc62a3b86581e91150" title="Handles player setup and returns an array of two player pointers." alt="" coords="5,5,171,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,27,171,29,171,24,206,26"/>
+</map>

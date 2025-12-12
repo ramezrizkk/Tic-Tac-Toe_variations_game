@@ -1,0 +1,19 @@
+<map id="Diamond_Classes.h" name="Diamond_Classes.h">
+<area shape="rect" id="Node000001" title="Diamond&#45;shaped Tic&#45;Tac&#45;Toe variant on 7x7 grid." alt="" coords="146,5,285,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,155,77,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,34,153,55,115,82,84,113,60,144,56,140,80,109,111,78,150,51,191,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="318,80,377,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,30,314,72,309,73,238,35"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="401,80,454,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="253,30,389,77,384,79,252,35"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="101,155,168,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="180,34,152,54,138,66,127,81,123,95,121,110,126,141,121,139,116,110,117,94,123,79,134,63,149,49,184,31"/>
+<area shape="rect" id="Node000006" href="$_board_game___classes_8h.html" title=" " alt="" coords="138,80,294,107"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="217,30,218,65,213,63,214,35"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="186,110,87,151,85,146,184,105"/>
+<area shape="poly" id="edge9_Node000006_Node000005" title=" " alt="" coords="204,106,161,147,158,142,199,108"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="192,155,245,181"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="218,105,220,140,215,138,214,109"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="270,155,327,181"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="231,105,275,145,270,144,229,110"/>
+</map>

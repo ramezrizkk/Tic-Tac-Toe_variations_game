@@ -1,0 +1,5 @@
+<map id="NumericalTTT_Board" name="NumericalTTT_Board">
+<area shape="rect" id="Node000001" title="Represents the Numerical Tic&#45;Tac&#45;Toe game board." alt="" coords="5,421,161,597"/>
+<area shape="rect" id="Node000002" href="$class_board.html" title=" " alt="" coords="17,5,149,373"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,386,86,422,81,421,83,391"/>
+</map>

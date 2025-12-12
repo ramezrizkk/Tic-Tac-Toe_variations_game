@@ -1,0 +1,9 @@
+<map id="ThreeWord_Board::update_board" name="ThreeWord_Board::update_board">
+<area shape="rect" id="Node000001" title="Updates the board with a player&#39;s move." alt="" coords="5,48,178,91"/>
+<area shape="rect" id="Node000002" href="$class_move.html#a595bf740852c05a1cb425ef2640fd4ff" title="Get the move symbol." alt="" coords="226,5,354,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,45,223,35,218,37,178,50"/>
+<area shape="rect" id="Node000003" href="$class_move.html#a9d4f543a81e361f872d37bcfb64d5b55" title="Get row index." alt="" coords="243,56,336,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,67,230,69,225,70,178,72"/>
+<area shape="rect" id="Node000004" href="$class_move.html#a96469802a55c9083a1e93c7edec8a00c" title="Get column index." alt="" coords="243,107,336,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="178,89,231,104,226,105,177,94"/>
+</map>

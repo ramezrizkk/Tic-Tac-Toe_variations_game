@@ -1,0 +1,5 @@
+<map id="SuperGrid::SuperGrid" name="SuperGrid::SuperGrid">
+<area shape="rect" id="Node000001" title="Constructs empty 9x9 board and clears zone winners." alt="" coords="5,5,151,32"/>
+<area shape="rect" id="Node000002" href="$class_board.html#ae5dfded241ee3644196e2f6074d1d0b1" title=" " alt="" coords="199,5,345,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,16,186,19,181,19,151,21"/>
+</map>

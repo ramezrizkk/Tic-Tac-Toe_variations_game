@@ -1,0 +1,8 @@
+<map id="Game8_Pyramid_Board::is_lose" name="Game8_Pyramid_Board::is_lose">
+<area shape="rect" id="Node000001" title="Checks if opponent has winning condition." alt="" coords="420,5,579,48"/>
+<area shape="rect" id="Node000002" href="$class_game8___pyramid___board.html#a4771a577563776a2fc29c6df5ec6c6ba" title="Determines if game has ended (win, lose, or draw)." alt="" coords="5,5,165,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="402,24,372,25,213,25,165,26,165,21,213,20,372,20,407,23"/>
+<area shape="rect" id="Node000003" href="$class_game8___pyramid___board.html#a680bcbe3ce2862714683440996e16de9" title="Checks if board is full without winner." alt="" coords="213,35,372,77"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="407,40,373,47,372,42,402,40"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="195,43,165,41,165,35,200,42"/>
+</map>

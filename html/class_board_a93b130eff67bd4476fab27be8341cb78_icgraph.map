@@ -1,0 +1,7 @@
+<map id="Board::get_rows" name="Board::get_rows">
+<area shape="rect" id="Node000001" title="Get number of rows." alt="" coords="226,31,342,57"/>
+<area shape="rect" id="Node000002" href="$class_t_t_t5x5___u_i.html#ab7146b2985c9e71b2045bf3c7990ded3" title="Gets move coordinates from player." alt="" coords="15,5,168,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,35,168,31,168,26,213,34"/>
+<area shape="rect" id="Node000003" href="$class_word_game___u_i.html#a4a4221290564dc66b7e16f6ce3ae56d7" title="Retrieves the next move from a player (row, column, and letter)." alt="" coords="5,56,178,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,54,178,61,178,55,213,53"/>
+</map>

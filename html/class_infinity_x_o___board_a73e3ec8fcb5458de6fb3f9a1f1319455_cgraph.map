@@ -1,0 +1,9 @@
+<map id="InfinityXO_Board::update_board" name="InfinityXO_Board::update_board">
+<area shape="rect" id="Node000001" title="Updates the board with a player&#39;s move." alt="" coords="5,48,173,91"/>
+<area shape="rect" id="Node000002" href="$class_move.html#a595bf740852c05a1cb425ef2640fd4ff" title="Get the move symbol." alt="" coords="221,5,349,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,45,218,35,213,37,174,50"/>
+<area shape="rect" id="Node000003" href="$class_move.html#a9d4f543a81e361f872d37bcfb64d5b55" title="Get row index." alt="" coords="238,56,332,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,67,225,69,220,70,173,72"/>
+<area shape="rect" id="Node000004" href="$class_move.html#a96469802a55c9083a1e93c7edec8a00c" title="Get column index." alt="" coords="238,107,332,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="173,88,225,104,220,104,173,94"/>
+</map>

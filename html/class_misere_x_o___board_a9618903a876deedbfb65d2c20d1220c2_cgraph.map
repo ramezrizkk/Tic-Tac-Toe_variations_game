@@ -1,0 +1,7 @@
+<map id="MisereXO_Board::is_draw" name="MisereXO_Board::is_draw">
+<area shape="rect" id="Node000001" title="Checks if the game has ended in a draw." alt="" coords="5,5,179,32"/>
+<area shape="rect" id="Node000002" href="$class_misere_x_o___board.html#a9958ae0b48a15d805bdae029db7af8e2" title="Checks if the given player has lost the game." alt="" coords="227,5,396,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,16,214,19,208,19,179,21"/>
+<area shape="rect" id="Node000003" href="$class_player.html#af56f0bf98c0423a3a75b0848607d03a4" title="Get the player&#39;s symbol." alt="" coords="444,5,577,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="397,16,431,19,426,19,397,21"/>
+</map>

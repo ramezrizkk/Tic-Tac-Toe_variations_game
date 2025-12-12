@@ -1,0 +1,15 @@
+<map id="Game7_FourByFour_Board::update_board" name="Game7_FourByFour_Board::update_board">
+<area shape="rect" id="Node000001" title="Update the board with a new move." alt="" coords="5,124,185,167"/>
+<area shape="rect" id="Node000002" href="$class_move.html#a595bf740852c05a1cb425ef2640fd4ff" title="Get the move symbol." alt="" coords="258,5,386,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,121,168,81,231,42,249,36,245,39,234,46,172,85,122,125"/>
+<area shape="rect" id="Node000003" href="$class_move_move_char.html#a392d6d2a5d6ba3f56fa1eb8ee44e338d" title=" " alt="" coords="237,56,408,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,121,232,92,258,86,253,89,234,97,154,126"/>
+<area shape="rect" id="Node000004" href="$class_move_move_char.html#a962ee488158f07c31352106eb070108c" title=" " alt="" coords="237,107,408,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,133,223,130,219,132,186,138"/>
+<area shape="rect" id="Node000005" href="$class_move.html#a9d4f543a81e361f872d37bcfb64d5b55" title="Get row index." alt="" coords="276,157,369,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="185,153,263,163,258,165,185,158"/>
+<area shape="rect" id="Node000006" href="$class_move.html#a96469802a55c9083a1e93c7edec8a00c" title="Get column index." alt="" coords="276,208,369,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="153,165,234,193,263,204,258,205,232,199,152,170"/>
+<area shape="rect" id="Node000007" href="$class_game7___four_by_four___board.html#ac43983b66e1b95d3654df42dc026ddbb" title=" " alt="" coords="233,259,412,301"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="122,164,173,204,234,244,245,252,240,251,231,249,169,209,120,170"/>
+</map>

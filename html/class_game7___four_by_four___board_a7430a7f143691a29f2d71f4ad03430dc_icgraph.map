@@ -1,0 +1,7 @@
+<map id="Game7_FourByFour_Board::has_any_moves" name="Game7_FourByFour_Board::has_any_moves">
+<area shape="rect" id="Node000001" title=" " alt="" coords="460,5,639,48"/>
+<area shape="rect" id="Node000002" href="$class_game7___four_by_four___board.html#a27285eced24ff19017061a3c8254c7f3" title="Check if the game ended in a draw." alt="" coords="233,5,412,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="442,27,413,29,412,24,447,27"/>
+<area shape="rect" id="Node000003" href="$class_game7___four_by_four___board.html#afcabb968e11596c9232dd0064c83d830" title="Check if the game is over." alt="" coords="5,5,185,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="215,27,185,29,185,24,220,26"/>
+</map>

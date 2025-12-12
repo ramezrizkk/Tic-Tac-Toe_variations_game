@@ -1,0 +1,5 @@
+<map id="ThreeWord_Board" name="ThreeWord_Board">
+<area shape="rect" id="Node000001" title="Represents the 3x3 board for the Three&#45;Letter Word Game." alt="" coords="5,421,141,597"/>
+<area shape="rect" id="Node000002" href="$class_board.html" title=" " alt="" coords="7,5,139,373"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,386,76,422,71,421,73,391"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SuperGrid" name="SuperGrid">
+<area shape="rect" id="Node000001" title="9x9 board made of nine 3x3 zones for Ultimate Tic&#45;Tac&#45;Toe." alt="" coords="11,421,132,619"/>
+<area shape="rect" id="Node000002" href="$class_board.html" title=" " alt="" coords="5,5,137,373"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,385,74,422,69,421,71,391"/>
+</map>

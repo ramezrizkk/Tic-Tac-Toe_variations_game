@@ -1,0 +1,7 @@
+<map id="human_participant" name="human_participant">
+<area shape="rect" id="Node000001" title="Controller for human players in Diamond game." alt="" coords="5,735,143,825"/>
+<area shape="rect" id="Node000002" href="$class_player.html" title=" " alt="" coords="19,445,130,685"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,698,77,736,72,735,73,703"/>
+<area shape="rect" id="Node000003" href="$class_board.html" title=" " alt="" coords="8,5,140,373"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="75,370,77,429,72,428,74,376"/>
+</map>

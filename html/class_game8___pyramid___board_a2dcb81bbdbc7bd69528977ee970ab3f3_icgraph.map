@@ -1,0 +1,12 @@
+<map id="Game8_Pyramid_Board::is_win" name="Game8_Pyramid_Board::is_win">
+<area shape="rect" id="Node000001" title="Checks if player has three marks in row, column, or diagonal." alt="" coords="627,22,787,64"/>
+<area shape="rect" id="Node000002" href="$class_game8___pyramid___board.html#a4771a577563776a2fc29c6df5ec6c6ba" title="Determines if game has ended (win, lose, or draw)." alt="" coords="5,26,165,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="609,27,527,19,427,11,319,9,213,16,157,28,156,22,212,11,319,3,427,5,527,14,615,27"/>
+<area shape="rect" id="Node000003" href="$class_game8___pyramid___board.html#a680bcbe3ce2862714683440996e16de9" title="Checks if board is full without winner." alt="" coords="213,26,372,68"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="609,45,372,49,372,44,614,43"/>
+<area shape="rect" id="Node000004" href="$class_game8___pyramid___board.html#ad8f99832eb94867c8369120e38e9e9d7" title="Checks if opponent has winning condition." alt="" coords="420,80,579,123"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="618,68,578,82,577,77,612,69"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="195,48,165,50,165,44,200,46"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="402,99,311,95,212,83,160,72,160,66,213,78,312,90,407,99"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="402,77,372,71,373,65,408,77"/>
+</map>

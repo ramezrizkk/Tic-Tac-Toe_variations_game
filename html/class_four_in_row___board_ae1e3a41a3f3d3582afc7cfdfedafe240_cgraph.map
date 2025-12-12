@@ -1,0 +1,10 @@
+<map id="FourInRow_Board::game_is_over" name="FourInRow_Board::game_is_over">
+<area shape="rect" id="Node000001" title="Determines if game is over (win or draw)." alt="" coords="5,23,172,65"/>
+<area shape="rect" id="Node000002" href="$class_four_in_row___board.html#a0d3ea4552badba1849be73bf223ed3f7" title="Checks if board is completely filled without a winner." alt="" coords="220,5,399,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,32,207,30,202,31,173,37"/>
+<area shape="rect" id="Node000003" href="$class_four_in_row___board.html#a928a7af5cfcd825be474bf498e4c1765" title="Checks if player has four in a row from their last move." alt="" coords="447,31,618,57"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="172,41,431,41,431,47,172,47"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="399,26,434,33,429,33,399,31"/>
+<area shape="rect" id="Node000004" href="$class_player.html#af56f0bf98c0423a3a75b0848607d03a4" title="Get the player&#39;s symbol." alt="" coords="666,31,800,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="619,41,653,44,648,44,619,47"/>
+</map>

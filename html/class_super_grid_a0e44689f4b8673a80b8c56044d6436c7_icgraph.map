@@ -1,0 +1,5 @@
+<map id="SuperGrid::isZonePlayable" name="SuperGrid::isZonePlayable">
+<area shape="rect" id="Node000001" title="Checks if a 3x3 zone is available for play (not won or full)." alt="" coords="201,13,377,40"/>
+<area shape="rect" id="Node000002" href="$class_mega_game_interface.html#a3c5f79801807230301ad24cc5b96601e" title="Gets move from player with zone playability validation." alt="" coords="5,5,153,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,27,153,29,153,24,188,26"/>
+</map>

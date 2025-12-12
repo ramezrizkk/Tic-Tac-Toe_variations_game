@@ -1,0 +1,8 @@
+<map id="gem_grid::is_win" name="gem_grid::is_win">
+<area shape="rect" id="Node000001" title="Checks if player has both triplet and quartet in different orientations." alt="" coords="392,5,511,32"/>
+<area shape="rect" id="Node000002" href="$classgem__grid.html#aebc7cb135809a1217109164ee81be0e7" title="Determines if game has ended (win or draw)." alt="" coords="5,5,169,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="375,21,169,21,169,16,377,16"/>
+<area shape="rect" id="Node000003" href="$classgem__grid.html#a0289bcbde622e593826c08c3857ec44b" title="Checks if board is full without winner." alt="" coords="217,31,344,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="379,29,345,37,344,32,374,30"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="198,34,169,32,169,27,204,33"/>
+</map>

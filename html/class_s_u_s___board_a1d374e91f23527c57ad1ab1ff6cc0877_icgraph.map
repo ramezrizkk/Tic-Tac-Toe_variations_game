@@ -1,0 +1,5 @@
+<map id="SUS_Board::get_valid_moves" name="SUS_Board::get_valid_moves">
+<area shape="rect" id="Node000001" title=" " alt="" coords="189,5,339,48"/>
+<area shape="rect" id="Node000002" href="$class_s_u_s___u_i.html#a621a4bfadf8d79f2b2b66f2241c310c3" title="Retrieves the next move from a player." alt="" coords="5,13,141,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,27,141,29,141,24,176,26"/>
+</map>

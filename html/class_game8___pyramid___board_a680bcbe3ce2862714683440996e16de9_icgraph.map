@@ -1,0 +1,5 @@
+<map id="Game8_Pyramid_Board::is_draw" name="Game8_Pyramid_Board::is_draw">
+<area shape="rect" id="Node000001" title="Checks if board is full without winner." alt="" coords="213,5,372,48"/>
+<area shape="rect" id="Node000002" href="$class_game8___pyramid___board.html#a4771a577563776a2fc29c6df5ec6c6ba" title="Determines if game has ended (win, lose, or draw)." alt="" coords="5,5,165,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,27,165,29,165,24,200,26"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SuperGrid::update_board" name="SuperGrid::update_board">
+<area shape="rect" id="Node000001" title="Places mark in a 3x3 zone if zone is valid and not full." alt="" coords="5,56,171,83"/>
+<area shape="rect" id="Node000002" href="$class_move.html#a595bf740852c05a1cb425ef2640fd4ff" title="Get the move symbol." alt="" coords="219,5,347,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,53,216,35,212,38,143,58"/>
+<area shape="rect" id="Node000003" href="$class_move.html#a9d4f543a81e361f872d37bcfb64d5b55" title="Get row index." alt="" coords="236,56,330,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,67,223,69,218,70,171,72"/>
+<area shape="rect" id="Node000004" href="$class_move.html#a96469802a55c9083a1e93c7edec8a00c" title="Get column index." alt="" coords="236,107,330,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="143,81,224,103,219,105,142,86"/>
+</map>

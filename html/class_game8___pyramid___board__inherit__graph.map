@@ -1,0 +1,5 @@
+<map id="Game8_Pyramid_Board" name="Game8_Pyramid_Board">
+<area shape="rect" id="Node000001" title="3x5 pyramid board with predefined valid cells." alt="" coords="5,421,175,619"/>
+<area shape="rect" id="Node000002" href="$class_board.html" title=" " alt="" coords="24,5,156,373"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,385,93,422,88,421,90,391"/>
+</map>

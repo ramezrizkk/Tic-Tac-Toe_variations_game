@@ -1,0 +1,7 @@
+<map id="TTT5x5_Board::is_win" name="TTT5x5_Board::is_win">
+<area shape="rect" id="Node000001" title="Checks if player has more triplets than opponent at game end." alt="" coords="5,43,158,69"/>
+<area shape="rect" id="Node000002" href="$class_t_t_t5x5___board.html#a51d6994156f9ae625181848a081bb330" title="Determines if 24 moves have been made." alt="" coords="206,5,353,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,42,193,39,188,41,159,47"/>
+<area shape="rect" id="Node000003" href="$class_player.html#af56f0bf98c0423a3a75b0848607d03a4" title="Get the player&#39;s symbol." alt="" coords="213,72,346,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,65,200,73,195,73,158,70"/>
+</map>

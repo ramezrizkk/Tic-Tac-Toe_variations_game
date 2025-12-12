@@ -1,0 +1,5 @@
+<map id="NumericalTTT_Board::is_draw" name="NumericalTTT_Board::is_draw">
+<area shape="rect" id="Node000001" title="Checks if the game has ended in a draw." alt="" coords="5,5,151,48"/>
+<area shape="rect" id="Node000002" href="$class_numerical_t_t_t___board.html#a9b7169f405a26271b26183ad177b3335" title="Checks if the given player has won the game (any line sums to 15)." alt="" coords="199,5,344,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,24,186,26,180,27,151,29"/>
+</map>

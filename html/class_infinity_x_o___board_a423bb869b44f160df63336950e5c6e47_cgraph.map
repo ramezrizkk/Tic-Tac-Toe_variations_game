@@ -1,0 +1,7 @@
+<map id="InfinityXO_Board::game_is_over" name="InfinityXO_Board::game_is_over">
+<area shape="rect" id="Node000001" title="Determines if the game is over (win or draw)." alt="" coords="5,5,166,48"/>
+<area shape="rect" id="Node000002" href="$class_infinity_x_o___board.html#a199404f185da3041ad0107280a5b022f" title="Checks if the given player has won the game." alt="" coords="214,13,379,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,24,201,26,195,27,166,29"/>
+<area shape="rect" id="Node000003" href="$class_player.html#af56f0bf98c0423a3a75b0848607d03a4" title="Get the player&#39;s symbol." alt="" coords="427,13,560,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="380,24,414,27,409,27,380,29"/>
+</map>

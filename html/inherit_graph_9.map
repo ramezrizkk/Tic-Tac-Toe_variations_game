@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_player.html" title=" " alt="" coords="5,81,113,108"/>
+<area shape="rect" id="Node000001" href="$class_ghost_c_p_u.html" title="AI player that makes random valid moves." alt="" coords="182,5,267,32"/>
+<area shape="poly" id="edge15_Node000000_Node000001" title=" " alt="" coords="98,72,160,42,189,31,185,34,162,46,101,76"/>
+<area shape="rect" id="Node000002" href="$class_ghost_human.html" title="Human player for Memory Tic&#45;Tac&#45;Toe." alt="" coords="175,56,274,83"/>
+<area shape="poly" id="edge16_Node000000_Node000002" title=" " alt="" coords="127,82,177,76,173,78,129,87"/>
+<area shape="rect" id="Node000003" href="$classai__participant.html" title="Controller for AI players in Diamond game (random moves)." alt="" coords="175,107,274,133"/>
+<area shape="poly" id="edge17_Node000000_Node000003" title=" " alt="" coords="128,103,177,112,172,113,128,108"/>
+<area shape="rect" id="Node000004" href="$classhuman__participant.html" title="Controller for human players in Diamond game." alt="" coords="161,157,288,184"/>
+<area shape="poly" id="edge18_Node000000_Node000004" title=" " alt="" coords="100,113,162,143,190,157,185,157,160,148,99,118"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="TTT5x5_Board" name="TTT5x5_Board">
+<area shape="rect" id="Node000001" title="5x5 board where players score by creating three&#45;in&#45;a&#45;row sequences." alt="" coords="12,421,130,597"/>
+<area shape="rect" id="Node000002" href="$class_board.html" title=" " alt="" coords="5,5,137,373"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,386,74,422,69,421,71,391"/>
+</map>

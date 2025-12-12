@@ -1,0 +1,5 @@
+<map id="GhostBoard::validate_coordinate" name="GhostBoard::validate_coordinate">
+<area shape="rect" id="Node000001" title="Checks if a cell is occupied in hidden state." alt="" coords="189,5,332,48"/>
+<area shape="rect" id="Node000002" href="$class_ghost_u_i.html#afa394e9f950b241c8ee20dc45afa7a59" title="Gets move from player with validation." alt="" coords="5,13,141,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,27,141,29,141,24,176,26"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="GhostHuman::GhostHuman" name="GhostHuman::GhostHuman">
+<area shape="rect" id="Node000001" title="Constructs human player with HUMAN type." alt="" coords="5,5,189,32"/>
+<area shape="rect" id="Node000002" href="$class_player.html#adb4e803a7ac0356b111b8ca79d766976" title=" " alt="" coords="237,5,389,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,16,224,19,219,19,189,21"/>
+</map>

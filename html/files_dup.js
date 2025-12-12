@@ -1,0 +1,28 @@
+var files_dup =
+[
+    [ "BoardGame_Classes.h", "_board_game___classes_8h.html", "_board_game___classes_8h" ],
+    [ "Diamond_Classes.h", "_diamond___classes_8h.html", "_diamond___classes_8h" ],
+    [ "FourInRow_Classes.cpp", "_four_in_row___classes_8cpp.html", null ],
+    [ "FourInRow_Classes.h", "_four_in_row___classes_8h.html", "_four_in_row___classes_8h" ],
+    [ "Game13_MemoryTTT.h", "_game13___memory_t_t_t_8h.html", "_game13___memory_t_t_t_8h" ],
+    [ "Game7_FourByFour.cpp", "_game7___four_by_four_8cpp.html", null ],
+    [ "Game7_FourByFour.h", "_game7___four_by_four_8h.html", "_game7___four_by_four_8h" ],
+    [ "Game8_Pyramid.cpp", "_game8___pyramid_8cpp.html", null ],
+    [ "Game8_Pyramid.h", "_game8___pyramid_8h.html", "_game8___pyramid_8h" ],
+    [ "InfinityXO_Classes.cpp", "_infinity_x_o___classes_8cpp.html", null ],
+    [ "InfinityXO_Classes.h", "_infinity_x_o___classes_8h.html", "_infinity_x_o___classes_8h" ],
+    [ "Main.cpp", "_main_8cpp.html", "_main_8cpp" ],
+    [ "MisereXO_Classes.cpp", "_misere_x_o___classes_8cpp.html", null ],
+    [ "MisereXO_Classes.h", "_misere_x_o___classes_8h.html", "_misere_x_o___classes_8h" ],
+    [ "NumericalTTT_Classes.cpp", "_numerical_t_t_t___classes_8cpp.html", null ],
+    [ "NumericalTTT_Classes.h", "_numerical_t_t_t___classes_8h.html", "_numerical_t_t_t___classes_8h" ],
+    [ "ObstaclesTTT_Classes.cpp", "_obstacles_t_t_t___classes_8cpp.html", null ],
+    [ "ObstaclesTTT_Classes.h", "_obstacles_t_t_t___classes_8h.html", "_obstacles_t_t_t___classes_8h" ],
+    [ "SUS_Classes.cpp", "_s_u_s___classes_8cpp.html", null ],
+    [ "SUS_Classes.h", "_s_u_s___classes_8h.html", "_s_u_s___classes_8h" ],
+    [ "TTT5x5.cpp", "_t_t_t5x5_8cpp.html", null ],
+    [ "TTT5x5.h", "_t_t_t5x5_8h.html", "_t_t_t5x5_8h" ],
+    [ "Ultimate_TTT_Board.h", "_ultimate___t_t_t___board_8h.html", "_ultimate___t_t_t___board_8h" ],
+    [ "wordTTT.cpp", "word_t_t_t_8cpp.html", null ],
+    [ "wordTTT.h", "word_t_t_t_8h.html", "word_t_t_t_8h" ]
+];

@@ -1,0 +1,17 @@
+<map id="Game8_Pyramid_Board::game_is_over" name="Game8_Pyramid_Board::game_is_over">
+<area shape="rect" id="Node000001" title="Determines if game has ended (win, lose, or draw)." alt="" coords="5,64,165,107"/>
+<area shape="rect" id="Node000002" href="$class_game8___pyramid___board.html#a680bcbe3ce2862714683440996e16de9" title="Checks if board is full without winner." alt="" coords="213,64,372,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,83,200,84,195,86,165,88"/>
+<area shape="rect" id="Node000003" href="$class_game8___pyramid___board.html#ad8f99832eb94867c8369120e38e9e9d7" title="Checks if opponent has winning condition." alt="" coords="420,5,579,48"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="160,61,212,49,311,36,407,30,402,32,312,41,213,55,162,66"/>
+<area shape="rect" id="Node000005" href="$class_game8___pyramid___board.html#a2dcb81bbdbc7bd69528977ee970ab3f3" title="Checks if player has three marks in row, column, or diagonal." alt="" coords="627,64,787,107"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="129,105,214,141,267,159,326,175,389,187,453,192,517,189,579,175,605,164,630,149,672,118,677,116,633,153,607,168,580,180,517,194,453,197,388,192,325,180,266,164,212,145,128,110"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="369,61,410,52,405,54,371,66"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="372,83,614,84,609,86,373,88"/>
+<area shape="rect" id="Node000006" href="$class_game8___pyramid___board.html#a7a01f1311861178c5108f6a08050f0d1" title="Checks if coordinates are within pyramid shape." alt="" coords="420,123,579,165"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="370,105,410,118,405,118,370,110"/>
+<area shape="rect" id="Node000004" href="$class_player.html#af56f0bf98c0423a3a75b0848607d03a4" title="Get the player&#39;s symbol." alt="" coords="835,43,968,69"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="580,30,822,50,817,51,580,35"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="577,46,617,59,612,59,577,51"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="786,71,822,68,817,69,787,76"/>
+</map>

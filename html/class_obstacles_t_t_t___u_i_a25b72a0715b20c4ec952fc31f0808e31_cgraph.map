@@ -1,0 +1,13 @@
+<map id="ObstaclesTTT_UI::get_move" name="ObstaclesTTT_UI::get_move">
+<area shape="rect" id="Node000001" title="Gets move from player (coordinates)." alt="" coords="5,107,196,133"/>
+<area shape="rect" id="Node000002" href="$class_player.html#a508617eddfae8915d098102d480fc888" title="Get a pointer to the game board." alt="" coords="244,5,389,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,104,177,74,243,42,261,37,256,39,245,46,180,79,126,108"/>
+<area shape="rect" id="Node000003" href="$class_board.html#a93558c58e60ca4291c6044828afd260b" title="Return content of cell x, y in current board." alt="" coords="262,56,370,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,104,249,84,245,87,162,109"/>
+<area shape="rect" id="Node000004" href="$class_player.html#aed2af19790ba73190e3ebeea589518e1" title="Get the player&#39;s name." alt="" coords="255,107,378,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,117,242,119,237,121,196,123"/>
+<area shape="rect" id="Node000005" href="$class_player.html#af56f0bf98c0423a3a75b0848607d03a4" title="Get the player&#39;s symbol." alt="" coords="250,157,383,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="161,131,244,152,239,154,161,137"/>
+<area shape="rect" id="Node000006" href="$class_player.html#a2df3bd299bf7aecfa2275ec6902a60f8" title="Get player type (e.g., &#39;H&#39; or &#39;C&#39;)." alt="" coords="258,208,374,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="125,131,180,161,245,194,261,202,256,202,243,198,177,166,124,136"/>
+</map>

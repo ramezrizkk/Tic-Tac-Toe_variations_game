@@ -1,0 +1,5 @@
+<map id="SuperGrid::is_draw" name="SuperGrid::is_draw">
+<area shape="rect" id="Node000001" title="Checks if all 81 cells are filled without winner." alt="" coords="222,5,354,32"/>
+<area shape="rect" id="Node000002" href="$class_super_grid.html#a66633c8116b1030a6b17604e2c3da412" title="Determines if game has ended (win or draw)." alt="" coords="5,5,174,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,19,174,21,174,16,209,19"/>
+</map>

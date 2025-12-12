@@ -1,0 +1,5 @@
+<map id="Game8_Pyramid_Board::Game8_Pyramid_Board" name="Game8_Pyramid_Board::Game8_Pyramid_Board">
+<area shape="rect" id="Node000001" title="Constructs pyramid board with starting position." alt="" coords="5,5,173,48"/>
+<area shape="rect" id="Node000002" href="$class_board.html#ae5dfded241ee3644196e2f6074d1d0b1" title=" " alt="" coords="221,13,367,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,24,208,26,203,27,173,29"/>
+</map>

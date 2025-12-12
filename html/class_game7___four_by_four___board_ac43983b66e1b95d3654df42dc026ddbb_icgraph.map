@@ -1,0 +1,11 @@
+<map id="Game7_FourByFour_Board::in_bounds" name="Game7_FourByFour_Board::in_bounds">
+<area shape="rect" id="Node000001" title=" " alt="" coords="687,39,867,81"/>
+<area shape="rect" id="Node000002" href="$class_game7___four_by_four___board.html#a7430a7f143691a29f2d71f4ad03430dc" title=" " alt="" coords="460,5,639,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="669,45,640,43,640,37,675,45"/>
+<area shape="rect" id="Node000005" href="$class_game7___four_by_four___board.html#a93b3c2fccfa2687302a900e2ec2493c4" title="Update the board with a new move." alt="" coords="460,72,639,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="675,75,640,83,640,77,669,76"/>
+<area shape="rect" id="Node000003" href="$class_game7___four_by_four___board.html#a27285eced24ff19017061a3c8254c7f3" title="Check if the game ended in a draw." alt="" coords="233,5,412,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="442,27,413,29,412,24,447,26"/>
+<area shape="rect" id="Node000004" href="$class_game7___four_by_four___board.html#afcabb968e11596c9232dd0064c83d830" title="Check if the game is over." alt="" coords="5,5,185,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="215,27,186,29,185,24,220,26"/>
+</map>

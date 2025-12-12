@@ -1,0 +1,5 @@
+<map id="GhostBoard" name="GhostBoard">
+<area shape="rect" id="Node000001" title="3x3 board where marks are hidden after placement." alt="" coords="5,421,149,619"/>
+<area shape="rect" id="Node000002" href="$class_board.html" title=" " alt="" coords="11,5,143,373"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,385,80,422,75,421,77,391"/>
+</map>

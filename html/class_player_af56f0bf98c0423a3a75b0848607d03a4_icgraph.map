@@ -1,0 +1,109 @@
+<map id="Player::get_symbol" name="Player::get_symbol">
+<area shape="rect" id="Node000001" title="Get the player&#39;s symbol." alt="" coords="940,721,1073,748"/>
+<area shape="rect" id="Node000002" href="$class_four_in_row___u_i.html#a9ba7b80a0c71ccaa0317c30f4287f616" title="Gets column choice from player (human or computer)." alt="" coords="704,5,875,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1002,705,995,566,978,368,964,266,945,173,920,97,906,68,890,46,876,34,875,29,894,42,910,65,925,95,950,172,969,265,984,367,1001,566,1007,706"/>
+<area shape="rect" id="Node000003" href="$class_game7___four_by_four___u_i.html#a1a02c1ea57b954a53b313a3ccee4fd70" title="Ask the user (or AI) to make a move." alt="" coords="710,56,869,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1001,705,992,579,972,401,958,310,939,227,916,159,904,132,890,113,870,96,869,91,894,109,908,130,921,157,944,226,963,309,978,400,997,578,1006,706"/>
+<area shape="rect" id="Node000004" href="$class_game8___pyramid___u_i.html#a012664651fb8c91147c6ff45c33c87a9" title="Gets move from current player." alt="" coords="687,123,892,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1001,705,991,588,971,424,956,342,938,266,916,204,903,181,890,163,877,152,876,147,894,159,908,178,920,202,943,265,961,340,976,424,996,587,1006,706"/>
+<area shape="rect" id="Node000005" href="$classgem__interaction.html#ad5ee09c708aa16e5ef4a54984671401c" title="Gets move from current player." alt="" coords="700,173,879,200"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1000,706,989,598,968,450,953,375,935,307,914,251,890,214,877,203,876,198,894,210,919,249,940,305,958,374,973,449,994,597,1005,707"/>
+<area shape="rect" id="Node000006" href="$class_ghost_u_i.html#afa394e9f950b241c8ee20dc45afa7a59" title="Gets move from player with validation." alt="" coords="722,224,857,251"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="999,705,987,607,964,474,949,408,932,347,912,298,890,265,875,253,858,246,857,241,877,249,894,261,917,295,937,345,954,406,969,473,992,607,1005,707"/>
+<area shape="rect" id="Node000007" href="$class_infinity_x_o___u_i.html#a15d92544970c320d8eec8b6007f0e1fa" title="Retrieves the next move from a player." alt="" coords="707,275,872,301"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="999,705,984,617,961,499,929,387,910,344,890,315,873,303,872,298,894,311,915,342,934,385,966,498,989,616,1004,707"/>
+<area shape="rect" id="Node000008" href="$class_mega_game_interface.html#a3c5f79801807230301ad24cc5b96601e" title="Gets move from player with zone playability validation." alt="" coords="716,325,863,368"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1002,705,995,640,978,553,964,507,945,462,920,419,890,382,864,364,863,359,893,378,925,416,950,459,969,505,984,552,1001,639,1007,707"/>
+<area shape="rect" id="Node000009" href="$class_misere_x_o___u_i.html#a6403695b752a9d4788a8c40ccbc54d9d" title="Retrieves the next move from a player." alt="" coords="707,392,872,419"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1000,706,992,649,974,575,959,536,941,498,918,463,890,433,873,421,872,416,893,429,922,460,946,495,964,534,979,573,997,648,1006,707"/>
+<area shape="rect" id="Node000010" href="$class_numerical_t_t_t___u_i.html#a147b583077d5c234b90b4c541547eab3" title="Retrieves the next move from a player." alt="" coords="694,443,885,469"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="998,706,987,658,967,597,935,536,914,508,890,483,874,473,873,467,893,479,918,504,940,533,972,595,992,657,1003,707"/>
+<area shape="rect" id="Node000011" href="$class_obstacles_t_t_t___u_i.html#a25b72a0715b20c4ec952fc31f0808e31" title="Gets move from player (coordinates)." alt="" coords="694,493,885,520"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="995,706,981,668,959,621,929,574,890,534,872,523,871,518,893,530,933,570,964,618,986,666,1000,707"/>
+<area shape="rect" id="Node000012" href="$class_s_u_s___u_i.html#a621a4bfadf8d79f2b2b66f2241c310c3" title="Retrieves the next move from a player." alt="" coords="722,544,857,571"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="989,707,951,645,923,613,890,585,858,570,857,565,893,580,927,609,955,642,995,707"/>
+<area shape="rect" id="Node000013" href="$class_t_t_t5x5___u_i.html#ab7146b2985c9e71b2045bf3c7990ded3" title="Gets move coordinates from player." alt="" coords="713,595,866,621"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="981,710,942,672,917,652,890,636,865,624,863,619,893,631,920,648,945,668,987,710"/>
+<area shape="rect" id="Node000014" href="$class_t_t_t5x5___board.html#a8718ca35626ba3ea2b19c9d985af8538" title="Checks if players have equal triplets at game end." alt="" coords="709,645,870,672"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="961,715,891,687,854,675,853,670,893,681,966,714"/>
+<area shape="rect" id="Node000015" href="$class_game7___four_by_four___board.html#a13b5ecaaaf9569a27ab77a9ef0cf4f0c" title="Check if a player has lost." alt="" coords="460,704,639,747"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="922,738,687,737,641,735,639,730,687,732,926,735"/>
+<area shape="rect" id="Node000018" href="$class_game8___pyramid___board.html#ad8f99832eb94867c8369120e38e9e9d7" title="Checks if opponent has winning condition." alt="" coords="470,1075,629,1117"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="1006,761,1003,829,987,914,973,959,953,1001,927,1040,893,1073,863,1092,831,1106,797,1115,762,1120,692,1122,631,1116,629,1110,692,1117,761,1115,796,1110,829,1101,861,1087,890,1069,923,1037,948,999,968,957,982,913,998,829,1004,766"/>
+<area shape="rect" id="Node000021" href="$class_misere_x_o___board.html#a9958ae0b48a15d805bdae029db7af8e2" title="Checks if the given player has lost the game." alt="" coords="705,696,874,723"/>
+<area shape="poly" id="edge22_Node000001_Node000021" title=" " alt="" coords="922,726,875,722,874,717,927,724"/>
+<area shape="rect" id="Node000024" href="$class_s_u_s___board.html#a4c5fc64b7dc144a2f3c132ca50b713d9" title="Checks if the given player has lost the game." alt="" coords="720,864,859,891"/>
+<area shape="poly" id="edge26_Node000001_Node000024" title=" " alt="" coords="989,759,949,810,922,834,893,854,861,868,858,863,890,850,919,830,945,806,985,762"/>
+<area shape="rect" id="Node000025" href="$class_t_t_t5x5___board.html#a79dc130711db7f178d3d389ff55b4b37" title="Checks if player has fewer triplets than opponent at game end." alt="" coords="711,915,868,941"/>
+<area shape="poly" id="edge27_Node000001_Node000025" title=" " alt="" coords="996,760,981,796,958,835,929,873,893,905,870,917,867,913,890,900,925,869,954,832,976,794,992,764"/>
+<area shape="rect" id="Node000026" href="$class_four_in_row___board.html#a928a7af5cfcd825be474bf498e4c1765" title="Checks if player has four in a row from their last move." alt="" coords="704,965,875,992"/>
+<area shape="poly" id="edge28_Node000001_Node000026" title=" " alt="" coords="1000,761,988,806,966,858,935,911,916,935,893,955,874,967,871,963,890,951,912,931,931,908,961,856,983,805,997,765"/>
+<area shape="rect" id="Node000029" href="$class_game7___four_by_four___board.html#ad5f6d7bb457a7477e73d79547e685ab1" title="Check if a player has won." alt="" coords="700,797,879,840"/>
+<area shape="poly" id="edge32_Node000001_Node000029" title=" " alt="" coords="953,756,848,799,845,794,958,753"/>
+<area shape="rect" id="Node000030" href="$class_game8___pyramid___board.html#a2dcb81bbdbc7bd69528977ee970ab3f3" title="Checks if player has three marks in row, column, or diagonal." alt="" coords="710,1016,869,1059"/>
+<area shape="poly" id="edge36_Node000001_Node000030" title=" " alt="" coords="1002,761,993,815,972,880,940,947,919,978,893,1006,871,1021,868,1017,890,1002,915,975,936,945,967,878,987,814,1000,765"/>
+<area shape="rect" id="Node000031" href="$classgem__grid.html#a0eef357bbed5abeca8f1638da3668a13" title="Checks if player has both triplet and quartet in different orientations." alt="" coords="730,1141,849,1168"/>
+<area shape="poly" id="edge40_Node000001_Node000031" title=" " alt="" coords="1006,761,1002,834,985,927,971,978,951,1027,926,1074,894,1117,874,1133,851,1144,848,1139,871,1128,890,1113,921,1071,946,1025,966,976,980,926,996,833,1003,766"/>
+<area shape="rect" id="Node000034" href="$class_ghost_board.html#ac70ce665ff27f19200a359469a5ca392" title="Checks if player has three hidden marks in a row." alt="" coords="722,1243,857,1269"/>
+<area shape="poly" id="edge44_Node000001_Node000034" title=" " alt="" coords="1005,761,1001,841,983,949,969,1009,950,1069,925,1127,894,1182,878,1201,858,1219,820,1244,817,1240,855,1214,874,1198,889,1178,920,1125,945,1067,964,1007,978,948,995,841,1003,766"/>
+<area shape="rect" id="Node000037" href="$class_infinity_x_o___board.html#a199404f185da3041ad0107280a5b022f" title="Checks if the given player has won the game." alt="" coords="707,1323,872,1349"/>
+<area shape="poly" id="edge48_Node000001_Node000037" title=" " alt="" coords="1004,761,992,876,969,1029,954,1108,936,1180,916,1240,894,1283,867,1308,836,1325,833,1320,864,1303,890,1280,912,1238,931,1178,949,1107,964,1028,987,875,1001,766"/>
+<area shape="rect" id="Node000039" href="$class_obstacles_t_t_t___board.html#a4959fa25514d7db79038a3578e941ef0" title="Checks if player has 4 in a row from last move." alt="" coords="717,1403,862,1445"/>
+<area shape="poly" id="edge50_Node000001_Node000039" title=" " alt="" coords="1004,761,994,889,972,1066,957,1157,939,1242,918,1312,894,1363,872,1387,845,1405,842,1400,868,1382,889,1360,913,1310,934,1240,952,1156,967,1065,989,889,1002,766"/>
+<area shape="rect" id="Node000042" href="$class_super_grid.html#afed353553d60be87ffd429ceab528f21" title="Checks if player has three zones in a row." alt="" coords="727,1499,852,1525"/>
+<area shape="poly" id="edge54_Node000001_Node000042" title=" " alt="" coords="1005,761,998,906,979,1112,964,1219,945,1318,922,1400,909,1433,894,1459,868,1484,836,1501,834,1496,864,1480,890,1456,904,1431,917,1398,940,1317,959,1218,974,1112,993,906,1002,766"/>
+<area shape="rect" id="Node000045" href="$class_s_u_s___board.html#a48747aa0b5f24bac5b5953576725b3ec" title="Checks if the given player has won the game." alt="" coords="722,1549,857,1576"/>
+<area shape="poly" id="edge58_Node000001_Node000045" title=" " alt="" coords="1006,761,1005,922,990,1155,976,1275,956,1386,929,1477,913,1512,894,1539,878,1552,858,1560,857,1555,875,1547,890,1536,908,1509,924,1475,951,1384,971,1275,985,1155,999,922,1004,766"/>
+<area shape="rect" id="Node000047" href="$class_t_t_t5x5___board.html#a24ab8eae5cf0b7bb45c066db28e20a1d" title="Checks if player has more triplets than opponent at game end." alt="" coords="713,1600,866,1627"/>
+<area shape="poly" id="edge60_Node000001_Node000047" title=" " alt="" coords="1007,761,1006,931,1002,1050,994,1179,980,1308,959,1426,931,1523,914,1561,894,1590,867,1608,865,1603,890,1586,909,1558,926,1521,954,1424,974,1307,988,1179,997,1050,1001,931,1004,766"/>
+<area shape="rect" id="Node000016" href="$class_game7___four_by_four___board.html#afcabb968e11596c9232dd0064c83d830" title="Check if the game is over." alt="" coords="5,755,185,797"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="442,728,342,734,233,745,177,756,174,752,232,740,341,729,446,725"/>
+<area shape="rect" id="Node000017" href="$class_game7___four_by_four___board.html#a27285eced24ff19017061a3c8254c7f3" title="Check if the game ended in a draw." alt="" coords="233,755,412,797"/>
+<area shape="poly" id="edge16_Node000015_Node000017" title=" " alt="" coords="443,750,414,758,411,754,447,747"/>
+<area shape="poly" id="edge17_Node000017_Node000016" title=" " alt="" coords="215,778,187,778,184,774,219,774"/>
+<area shape="rect" id="Node000019" href="$class_game8___pyramid___board.html#a4771a577563776a2fc29c6df5ec6c6ba" title="Determines if game has ended (win, lose, or draw)." alt="" coords="15,1024,175,1067"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="452,1097,347,1093,232,1081,176,1070,174,1065,233,1076,348,1088,457,1094"/>
+<area shape="rect" id="Node000020" href="$class_game8___pyramid___board.html#a680bcbe3ce2862714683440996e16de9" title="Checks if board is full without winner." alt="" coords="243,1024,402,1067"/>
+<area shape="poly" id="edge20_Node000018_Node000020" title=" " alt="" coords="453,1076,403,1066,402,1061,458,1074"/>
+<area shape="poly" id="edge21_Node000020_Node000019" title=" " alt="" coords="225,1047,177,1048,174,1043,229,1044"/>
+<area shape="rect" id="Node000022" href="$class_misere_x_o___board.html#ad740598f5467aeb9f3e4debf545a73e3" title="Determines if the game is over (win or draw)." alt="" coords="242,616,402,659"/>
+<area shape="poly" id="edge23_Node000021_Node000022" title=" " alt="" coords="698,691,686,686,671,675,662,663,653,653,638,644,579,628,517,621,457,621,405,626,402,621,457,616,517,616,580,622,640,639,656,648,666,660,675,671,689,682,703,690"/>
+<area shape="rect" id="Node000023" href="$class_misere_x_o___board.html#a9618903a876deedbfb65d2c20d1220c2" title="Checks if the game has ended in a draw." alt="" coords="463,653,636,680"/>
+<area shape="poly" id="edge24_Node000021_Node000023" title=" " alt="" coords="693,694,629,683,627,678,698,692"/>
+<area shape="poly" id="edge25_Node000023_Node000022" title=" " alt="" coords="446,655,404,650,402,645,450,652"/>
+<area shape="rect" id="Node000027" href="$class_four_in_row___board.html#ae1e3a41a3f3d3582afc7cfdfedafe240" title="Determines if game is over (win or draw)." alt="" coords="239,889,406,932"/>
+<area shape="poly" id="edge29_Node000026_Node000027" title=" " alt="" coords="698,960,686,956,671,944,662,932,653,922,638,913,580,898,519,892,460,892,407,897,405,893,459,887,519,886,581,892,640,908,656,918,666,929,675,941,689,951,703,959"/>
+<area shape="rect" id="Node000028" href="$class_four_in_row___board.html#a0d3ea4552badba1849be73bf223ed3f7" title="Checks if board is completely filled without a winner." alt="" coords="460,923,639,949"/>
+<area shape="poly" id="edge30_Node000026_Node000028" title=" " alt="" coords="693,963,629,952,628,947,698,961"/>
+<area shape="poly" id="edge31_Node000028_Node000027" title=" " alt="" coords="442,926,407,922,405,918,447,923"/>
+<area shape="poly" id="edge35_Node000029_Node000015" title=" " alt="" coords="716,792,607,750,606,745,721,790"/>
+<area shape="poly" id="edge33_Node000029_Node000016" title=" " alt="" coords="682,825,475,828,353,823,232,812,175,800,172,796,233,807,354,818,475,823,686,822"/>
+<area shape="poly" id="edge34_Node000029_Node000017" title=" " alt="" coords="683,811,413,787,412,782,687,808"/>
+<area shape="poly" id="edge39_Node000030_Node000018" title=" " alt="" coords="692,1062,631,1079,628,1074,697,1059"/>
+<area shape="poly" id="edge37_Node000030_Node000019" title=" " alt="" coords="692,1025,598,1016,482,1008,357,1006,233,1015,174,1025,171,1021,232,1009,357,1001,482,1003,598,1011,697,1023"/>
+<area shape="poly" id="edge38_Node000030_Node000020" title=" " alt="" coords="692,1041,403,1047,402,1041,696,1037"/>
+<area shape="rect" id="Node000032" href="$classgem__grid.html#aebc7cb135809a1217109164ee81be0e7" title="Determines if game has ended (win or draw)." alt="" coords="241,1167,404,1193"/>
+<area shape="poly" id="edge41_Node000031_Node000032" title=" " alt="" coords="712,1160,405,1178,404,1173,716,1157"/>
+<area shape="rect" id="Node000033" href="$classgem__grid.html#a0289bcbde622e593826c08c3857ec44b" title="Checks if board is full without winner." alt="" coords="486,1192,613,1219"/>
+<area shape="poly" id="edge42_Node000031_Node000033" title=" " alt="" coords="712,1172,615,1194,613,1189,717,1169"/>
+<area shape="poly" id="edge43_Node000033_Node000032" title=" " alt="" coords="468,1198,405,1192,404,1187,473,1195"/>
+<area shape="rect" id="Node000035" href="$class_ghost_board.html#a69de18dbeca28ab1fea1ae318e24238c" title="Determines if game has ended (win or draw)." alt="" coords="233,1268,412,1295"/>
+<area shape="poly" id="edge45_Node000034_Node000035" title=" " alt="" coords="705,1262,413,1279,412,1274,709,1259"/>
+<area shape="rect" id="Node000036" href="$class_ghost_board.html#a4189069f8f3f574eaa795c48be0902e5" title="Checks if board is full without winner." alt="" coords="478,1293,621,1320"/>
+<area shape="poly" id="edge46_Node000034_Node000036" title=" " alt="" coords="705,1274,617,1295,615,1290,710,1272"/>
+<area shape="poly" id="edge47_Node000036_Node000035" title=" " alt="" coords="460,1298,413,1294,412,1289,465,1296"/>
+<area shape="rect" id="Node000038" href="$class_infinity_x_o___board.html#a423bb869b44f160df63336950e5c6e47" title="Determines if the game is over (win or draw)." alt="" coords="470,1344,630,1387"/>
+<area shape="poly" id="edge49_Node000037_Node000038" title=" " alt="" coords="689,1349,631,1358,630,1353,694,1347"/>
+<area shape="rect" id="Node000040" href="$class_obstacles_t_t_t___board.html#aaafbbdd4cb1607c56f7a91a81744b2d8" title="Determines if game has ended (win or draw)." alt="" coords="250,1432,395,1475"/>
+<area shape="poly" id="edge51_Node000039_Node000040" title=" " alt="" coords="700,1431,396,1451,395,1446,704,1428"/>
+<area shape="rect" id="Node000041" href="$class_obstacles_t_t_t___board.html#afd5cfb765c9ec4952c971a66e1b43755" title="Checks if board is full without winner." alt="" coords="477,1461,622,1504"/>
+<area shape="poly" id="edge52_Node000039_Node000041" title=" " alt="" coords="699,1446,624,1467,622,1462,704,1445"/>
+<area shape="poly" id="edge53_Node000041_Node000040" title=" " alt="" coords="459,1472,396,1465,395,1460,464,1471"/>
+<area shape="rect" id="Node000043" href="$class_super_grid.html#a66633c8116b1030a6b17604e2c3da412" title="Determines if game has ended (win or draw)." alt="" coords="238,1553,406,1580"/>
+<area shape="poly" id="edge55_Node000042_Node000043" title=" " alt="" coords="709,1522,407,1559,407,1554,714,1520"/>
+<area shape="rect" id="Node000044" href="$class_super_grid.html#af72a7fe4c0812300bb12c8be3d124a26" title="Checks if all 81 cells are filled without winner." alt="" coords="484,1579,616,1605"/>
+<area shape="poly" id="edge56_Node000042_Node000044" title=" " alt="" coords="715,1529,688,1540,640,1562,592,1581,591,1576,638,1558,686,1535,710,1530"/>
+<area shape="poly" id="edge57_Node000044_Node000043" title=" " alt="" coords="466,1583,407,1579,407,1573,471,1583"/>
+<area shape="rect" id="Node000046" href="$class_s_u_s___board.html#a1402f8069947c57d4b65f50248e699b2" title="Determines if the game is over (win or draw)." alt="" coords="460,1629,639,1656"/>
+<area shape="poly" id="edge59_Node000045_Node000046" title=" " alt="" coords="710,1580,688,1590,665,1605,640,1620,608,1631,607,1626,638,1615,662,1600,686,1586,705,1581"/>
+</map>

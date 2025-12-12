@@ -1,0 +1,8 @@
+<map id="ThreeWord_Board::game_is_over" name="ThreeWord_Board::game_is_over">
+<area shape="rect" id="Node000001" title="Determines if the game is over (win or draw)." alt="" coords="5,23,171,65"/>
+<area shape="rect" id="Node000002" href="$class_three_word___board.html#aedae44f6697c02ed0ced29c7a579496b" title="Checks if the game has ended in a draw (board filled, no win)." alt="" coords="219,5,397,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,32,206,30,200,31,171,37"/>
+<area shape="rect" id="Node000003" href="$class_three_word___board.html#a7ad321a11712eda88e7cdb1e4bf0cfb7" title="Checks if the player&#39;s last move resulted in a win (forming a valid 3&#45;letter word)." alt="" coords="445,31,615,57"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="171,41,430,41,429,47,171,47"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="397,26,432,33,427,33,397,31"/>
+</map>

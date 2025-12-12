@@ -1,0 +1,14 @@
+<map id="gem_grid::game_is_over" name="gem_grid::game_is_over">
+<area shape="rect" id="Node000001" title="Determines if game has ended (win or draw)." alt="" coords="5,64,169,91"/>
+<area shape="rect" id="Node000002" href="$classgem__grid.html#a0289bcbde622e593826c08c3857ec44b" title="Checks if board is full without winner." alt="" coords="217,39,344,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,64,204,61,199,63,170,69"/>
+<area shape="rect" id="Node000003" href="$classgem__grid.html#a0eef357bbed5abeca8f1638da3668a13" title="Checks if player has both triplet and quartet in different orientations." alt="" coords="392,64,511,91"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="169,75,378,75,375,80,169,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="344,59,379,66,374,66,345,64"/>
+<area shape="rect" id="Node000004" href="$class_player.html#af56f0bf98c0423a3a75b0848607d03a4" title="Get the player&#39;s symbol." alt="" coords="559,5,693,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="493,61,567,38,572,37,494,66"/>
+<area shape="rect" id="Node000005" href="$classgem__grid.html#a8e09bbbb6334e09fe444b2955d745a22" title="Searches for any 4 consecutive marks of player." alt="" coords="562,56,690,99"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="511,75,550,77,545,78,512,80"/>
+<area shape="rect" id="Node000006" href="$classgem__grid.html#a0accb93222cc9ee47b983ec2c931fbf9" title="Searches for any 3 consecutive marks of player." alt="" coords="562,123,690,165"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="489,89,557,117,552,117,489,94"/>
+</map>

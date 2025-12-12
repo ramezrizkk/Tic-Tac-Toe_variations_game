@@ -1,0 +1,5 @@
+<map id="WordGame_UI::create_player" name="WordGame_UI::create_player">
+<area shape="rect" id="Node000001" title="Creates a generic Player&lt;char&gt; object (as we don&#39;t need a custom WordGame_Player)." alt="" coords="201,5,352,48"/>
+<area shape="rect" id="Node000002" href="$class_word_game___u_i.html#a312cdf8c8fa29e5e0bb09fe79ef8a590" title="Custom setup for players, uses &#39;L1&#39; and &#39;L2&#39; as default symbols." alt="" coords="5,5,153,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,27,153,29,153,24,188,26"/>
+</map>

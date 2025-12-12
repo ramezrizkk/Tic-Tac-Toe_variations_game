@@ -1,0 +1,15 @@
+<map id="Game7_FourByFour_Board::is_draw" name="Game7_FourByFour_Board::is_draw">
+<area shape="rect" id="Node000001" title="Check if the game ended in a draw." alt="" coords="5,72,185,115"/>
+<area shape="rect" id="Node000002" href="$class_game7___four_by_four___board.html#a7430a7f143691a29f2d71f4ad03430dc" title=" " alt="" coords="233,5,412,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,69,235,52,230,54,171,74"/>
+<area shape="rect" id="Node000004" href="$class_game7___four_by_four___board.html#a13b5ecaaaf9569a27ab77a9ef0cf4f0c" title="Check if a player has lost." alt="" coords="233,72,412,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="185,91,220,93,215,94,186,96"/>
+<area shape="rect" id="Node000006" href="$class_game7___four_by_four___board.html#ad5f6d7bb457a7477e73d79547e685ab1" title="Check if a player has won." alt="" coords="460,131,639,173"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="177,113,233,124,342,138,447,148,441,148,341,143,232,129,177,118"/>
+<area shape="rect" id="Node000003" href="$class_game7___four_by_four___board.html#ac43983b66e1b95d3654df42dc026ddbb" title=" " alt="" coords="460,5,639,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,24,447,26,442,27,413,29"/>
+<area shape="rect" id="Node000005" href="$class_player.html#af56f0bf98c0423a3a75b0848607d03a4" title="Get the player&#39;s symbol." alt="" coords="687,109,821,136"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="413,97,674,116,669,118,413,102"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="408,113,452,126,447,126,407,118"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="639,136,669,135,675,134,640,142"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="gem_grid::is_win" name="gem_grid::is_win">
+<area shape="rect" id="Node000001" title="Checks if player has both triplet and quartet in different orientations." alt="" coords="5,64,125,91"/>
+<area shape="rect" id="Node000002" href="$class_player.html#af56f0bf98c0423a3a75b0848607d03a4" title="Get the player&#39;s symbol." alt="" coords="173,5,306,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,61,185,36,181,39,108,66"/>
+<area shape="rect" id="Node000003" href="$classgem__grid.html#a8e09bbbb6334e09fe444b2955d745a22" title="Searches for any 4 consecutive marks of player." alt="" coords="176,56,303,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,75,163,76,158,78,126,80"/>
+<area shape="rect" id="Node000004" href="$classgem__grid.html#a0accb93222cc9ee47b983ec2c931fbf9" title="Searches for any 3 consecutive marks of player." alt="" coords="176,123,303,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="103,89,170,116,165,118,102,94"/>
+</map>

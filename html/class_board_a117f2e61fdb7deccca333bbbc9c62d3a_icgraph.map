@@ -1,0 +1,9 @@
+<map id="Board::get_board_matrix" name="Board::get_board_matrix">
+<area shape="rect" id="Node000001" title="Return a copy of the current board as a 2D vector." alt="" coords="258,72,421,99"/>
+<area shape="rect" id="Node000002" href="$class_game7___four_by_four___u_i.html#a1a02c1ea57b954a53b313a3ccee4fd70" title="Ask the user (or AI) to make a move." alt="" coords="28,5,187,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,69,187,49,188,44,272,67"/>
+<area shape="rect" id="Node000003" href="$class_game8___pyramid___u_i.html#a012664651fb8c91147c6ff45c33c87a9" title="Gets move from current player." alt="" coords="5,72,210,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,86,210,88,210,83,245,85"/>
+<area shape="rect" id="Node000004" href="$class_numerical_t_t_t___u_i.html#a147b583077d5c234b90b4c541547eab3" title="Retrieves the next move from a player." alt="" coords="12,123,203,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="263,102,172,125,171,119,257,103"/>
+</map>

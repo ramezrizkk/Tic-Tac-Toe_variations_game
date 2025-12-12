@@ -1,0 +1,9 @@
+<map id="Game8_Pyramid_Board::valid_cell" name="Game8_Pyramid_Board::valid_cell">
+<area shape="rect" id="Node000001" title="Checks if coordinates are within pyramid shape." alt="" coords="420,39,579,81"/>
+<area shape="rect" id="Node000002" href="$class_game8___pyramid___board.html#a680bcbe3ce2862714683440996e16de9" title="Checks if board is full without winner." alt="" coords="213,5,372,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="402,45,372,42,372,37,407,45"/>
+<area shape="rect" id="Node000004" href="$class_game8___pyramid___board.html#a4c5abfcba10157c0ffb3e3fae7d2e1ac" title="Places mark on valid empty cell." alt="" coords="213,72,372,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="407,75,373,83,372,78,402,76"/>
+<area shape="rect" id="Node000003" href="$class_game8___pyramid___board.html#a4771a577563776a2fc29c6df5ec6c6ba" title="Determines if game has ended (win, lose, or draw)." alt="" coords="5,5,165,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="195,27,166,29,165,24,200,26"/>
+</map>

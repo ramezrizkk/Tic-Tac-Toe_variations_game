@@ -1,0 +1,10 @@
+<map id="SuperGrid::game_is_over" name="SuperGrid::game_is_over">
+<area shape="rect" id="Node000001" title="Determines if game has ended (win or draw)." alt="" coords="5,31,174,57"/>
+<area shape="rect" id="Node000002" href="$class_super_grid.html#af72a7fe4c0812300bb12c8be3d124a26" title="Checks if all 81 cells are filled without winner." alt="" coords="222,5,354,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,31,209,29,204,29,174,36"/>
+<area shape="rect" id="Node000003" href="$class_super_grid.html#afed353553d60be87ffd429ceab528f21" title="Checks if player has three zones in a row." alt="" coords="402,31,526,57"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="174,41,387,41,386,47,174,47"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="354,26,389,33,384,33,354,31"/>
+<area shape="rect" id="Node000004" href="$class_player.html#af56f0bf98c0423a3a75b0848607d03a4" title="Get the player&#39;s symbol." alt="" coords="574,31,708,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="527,41,562,44,556,44,527,47"/>
+</map>

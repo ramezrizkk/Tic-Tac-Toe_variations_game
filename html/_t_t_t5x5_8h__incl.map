@@ -1,0 +1,17 @@
+<map id="TTT5x5.h" name="TTT5x5.h">
+<area shape="rect" id="Node000001" title="5x5 Tic&#45;Tac&#45;Toe variant where players aim for most 3&#45;in&#45;a&#45;row sequences." alt="" coords="124,5,201,32"/>
+<area shape="rect" id="Node000002" href="$_board_game___classes_8h.html" title=" " alt="" coords="84,80,241,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,30,165,65,160,63,161,35"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,155,59,181"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="128,34,96,54,65,82,48,110,39,140,34,138,44,108,61,78,93,50,132,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="101,155,158,181"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="127,34,99,54,85,66,74,81,71,97,76,113,87,129,102,145,96,145,83,132,71,116,66,97,70,79,81,63,96,49,131,31"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="191,155,262,181"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="196,30,230,49,244,63,256,79,260,95,259,112,246,143,243,140,254,111,255,96,251,81,240,66,226,54,196,35"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="291,155,357,181"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="197,30,238,50,277,78,300,108,316,141,311,139,295,111,273,82,235,54,197,35"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="141,110,70,149,67,144,139,105"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="159,106,143,142,139,139,155,109"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="175,105,208,143,203,143,173,110"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="191,105,285,147,279,149,190,110"/>
+</map>

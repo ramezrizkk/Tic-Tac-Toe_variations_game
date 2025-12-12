@@ -1,0 +1,19 @@
+<map id="Game7_FourByFour_Board::game_is_over" name="Game7_FourByFour_Board::game_is_over">
+<area shape="rect" id="Node000001" title="Check if the game is over." alt="" coords="5,72,185,115"/>
+<area shape="rect" id="Node000002" href="$class_game7___four_by_four___board.html#a27285eced24ff19017061a3c8254c7f3" title="Check if the game ended in a draw." alt="" coords="233,72,412,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,91,220,93,215,94,186,96"/>
+<area shape="rect" id="Node000005" href="$class_game7___four_by_four___board.html#a13b5ecaaaf9569a27ab77a9ef0cf4f0c" title="Check if a player has lost." alt="" coords="460,5,639,48"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="178,69,232,57,341,42,447,33,442,35,342,47,233,63,179,74"/>
+<area shape="rect" id="Node000007" href="$class_game7___four_by_four___board.html#ad5f6d7bb457a7477e73d79547e685ab1" title="Check if a player has won." alt="" coords="687,131,867,173"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="179,113,233,124,350,140,468,148,675,155,669,155,468,154,349,145,232,129,178,118"/>
+<area shape="rect" id="Node000003" href="$class_game7___four_by_four___board.html#a7430a7f143691a29f2d71f4ad03430dc" title=" " alt="" coords="460,72,639,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,91,447,93,442,94,413,96"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="397,69,457,54,463,52,398,74"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="405,113,460,124,569,138,674,148,669,148,569,143,460,129,404,118"/>
+<area shape="rect" id="Node000004" href="$class_game7___four_by_four___board.html#ac43983b66e1b95d3654df42dc026ddbb" title=" " alt="" coords="687,64,867,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="640,88,674,89,669,89,640,93"/>
+<area shape="rect" id="Node000006" href="$class_player.html#af56f0bf98c0423a3a75b0848607d03a4" title="Get the player&#39;s symbol." alt="" coords="915,76,1048,103"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="640,26,749,33,867,49,933,70,928,70,866,55,749,38,640,31"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="620,46,641,58,657,73,666,88,674,102,689,117,696,124,691,122,686,121,670,106,661,91,652,76,638,62,619,51"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="848,127,918,108,923,107,849,133"/>
+</map>

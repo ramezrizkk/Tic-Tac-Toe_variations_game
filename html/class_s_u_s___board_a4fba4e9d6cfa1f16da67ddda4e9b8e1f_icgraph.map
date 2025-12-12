@@ -1,0 +1,5 @@
+<map id="SUS_Board::is_SUS" name="SUS_Board::is_SUS">
+<area shape="rect" id="Node000001" title="Helper method to check if three characters form S&#45;U&#45;S." alt="" coords="230,5,373,32"/>
+<area shape="rect" id="Node000002" href="$class_s_u_s___board.html#a5cf8d1ad2da90ed50b77a7f5d91342f4" title="Updates the board with a player&#39;s move." alt="" coords="5,5,182,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,19,182,21,182,16,217,19"/>
+</map>

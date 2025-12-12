@@ -1,0 +1,5 @@
+<map id="Board::get_n_moves" name="Board::get_n_moves">
+<area shape="rect" id="Node000001" title="Get number of moves." alt="" coords="206,5,347,32"/>
+<area shape="rect" id="Node000002" href="$class_t_t_t5x5___u_i.html#ab7146b2985c9e71b2045bf3c7990ded3" title="Gets move coordinates from player." alt="" coords="5,5,158,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,19,158,21,158,16,192,19"/>
+</map>

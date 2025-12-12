@@ -1,0 +1,5 @@
+<map id="ObstaclesTTT_Board::is_win" name="ObstaclesTTT_Board::is_win">
+<area shape="rect" id="Node000001" title="Checks if player has 4 in a row from last move." alt="" coords="5,5,151,48"/>
+<area shape="rect" id="Node000002" href="$class_player.html#af56f0bf98c0423a3a75b0848607d03a4" title="Get the player&#39;s symbol." alt="" coords="199,13,332,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,24,186,26,181,27,151,29"/>
+</map>

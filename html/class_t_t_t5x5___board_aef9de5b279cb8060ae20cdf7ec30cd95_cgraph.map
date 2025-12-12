@@ -1,0 +1,5 @@
+<map id="TTT5x5_Board::TTT5x5_Board" name="TTT5x5_Board::TTT5x5_Board">
+<area shape="rect" id="Node000001" title="Constructs an empty 5x5 board." alt="" coords="5,5,166,48"/>
+<area shape="rect" id="Node000002" href="$class_board.html#ae5dfded241ee3644196e2f6074d1d0b1" title=" " alt="" coords="214,13,360,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,24,200,26,195,27,166,29"/>
+</map>

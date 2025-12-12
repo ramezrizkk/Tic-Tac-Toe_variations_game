@@ -1,0 +1,9 @@
+<map id="Board::get_cell" name="Board::get_cell">
+<area shape="rect" id="Node000001" title="Return content of cell x, y in current board." alt="" coords="244,56,352,83"/>
+<area shape="rect" id="Node000002" href="$classgem__interaction.html#ad5ee09c708aa16e5ef4a54984671401c" title="Gets move from current player." alt="" coords="11,5,190,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,53,155,35,155,30,231,51"/>
+<area shape="rect" id="Node000003" href="$class_obstacles_t_t_t___u_i.html#a25b72a0715b20c4ec952fc31f0808e31" title="Gets move from player (coordinates)." alt="" coords="5,56,196,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,70,196,72,196,67,231,69"/>
+<area shape="rect" id="Node000004" href="$class_t_t_t5x5___u_i.html#ab7146b2985c9e71b2045bf3c7990ded3" title="Gets move coordinates from player." alt="" coords="24,107,177,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="231,86,156,109,155,103,226,87"/>
+</map>

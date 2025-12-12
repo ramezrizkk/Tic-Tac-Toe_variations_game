@@ -1,0 +1,27 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_board.html" title=" " alt="" coords="5,284,110,311"/>
+<area shape="rect" id="Node000001" href="$class_four_in_row___board.html" title="6x7 board for Four&#45;in&#45;a&#45;Row game with gravity&#45;based placement." alt="" coords="184,5,310,32"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="59,268,68,219,85,158,113,96,133,67,156,42,185,26,182,31,159,46,137,71,118,99,90,160,73,220,64,269"/>
+<area shape="rect" id="Node000002" href="$class_game7___four_by_four___board.html" title="Represents the Four By Four Tic&#45;Tac&#45;Toe game board." alt="" coords="158,56,337,83"/>
+<area shape="poly" id="edge2_Node000000_Node000002" title=" " alt="" coords="62,268,74,229,92,181,119,134,156,93,178,81,175,85,159,97,124,137,97,184,79,231,67,270"/>
+<area shape="rect" id="Node000003" href="$class_game8___pyramid___board.html" title="3x5 pyramid board with predefined valid cells." alt="" coords="168,107,327,133"/>
+<area shape="poly" id="edge3_Node000000_Node000003" title=" " alt="" coords="67,269,101,205,126,172,156,143,180,132,176,136,159,147,130,175,105,208,72,271"/>
+<area shape="rect" id="Node000004" href="$class_ghost_board.html" title="3x3 board where marks are hidden after placement." alt="" coords="202,157,292,184"/>
+<area shape="poly" id="edge4_Node000000_Node000004" title=" " alt="" coords="75,271,110,231,156,194,204,177,200,181,159,198,114,235,79,273"/>
+<area shape="rect" id="Node000005" href="$class_infinity_x_o___board.html" title=" " alt="" coords="187,208,308,235"/>
+<area shape="poly" id="edge5_Node000000_Node000005" title=" " alt="" coords="94,274,157,244,193,233,189,237,159,249,97,278"/>
+<area shape="rect" id="Node000006" href="$class_misere_x_o___board.html" title=" " alt="" coords="187,259,308,285"/>
+<area shape="poly" id="edge6_Node000000_Node000006" title=" " alt="" coords="124,286,189,278,185,282,126,291"/>
+<area shape="rect" id="Node000007" href="$class_obstacles_t_t_t___board.html" title="6x6 board with obstacle generation and 4&#45;in&#45;a&#45;row win condition." alt="" coords="175,309,320,336"/>
+<area shape="poly" id="edge7_Node000000_Node000007" title=" " alt="" coords="124,304,176,311,172,314,126,309"/>
+<area shape="rect" id="Node000008" href="$class_s_u_s___board.html" title="Represents the Tic&#45;Tac&#45;Toe game board." alt="" coords="202,360,292,387"/>
+<area shape="poly" id="edge8_Node000000_Node000008" title=" " alt="" coords="95,316,159,346,204,361,199,364,157,350,96,321"/>
+<area shape="rect" id="Node000009" href="$class_super_grid.html" title="9x9 board made of nine 3x3 zones for Ultimate Tic&#45;Tac&#45;Toe." alt="" coords="208,411,287,437"/>
+<area shape="poly" id="edge9_Node000000_Node000009" title=" " alt="" coords="77,320,114,360,159,396,183,408,210,417,205,418,181,412,156,401,110,364,77,325"/>
+<area shape="rect" id="Node000010" href="$class_t_t_t5x5___board.html" title="5x5 board where players score by creating three&#45;in&#45;a&#45;row sequences." alt="" coords="194,461,301,488"/>
+<area shape="poly" id="edge10_Node000000_Node000010" title=" " alt="" coords="70,322,105,386,130,419,159,447,196,465,191,467,156,452,126,423,101,389,69,328"/>
+<area shape="rect" id="Node000011" href="$class_three_word___board.html" title="Represents the 3x3 board for the Three&#45;Letter Word Game." alt="" coords="185,512,310,539"/>
+<area shape="poly" id="edge11_Node000000_Node000011" title=" " alt="" coords="65,323,79,364,97,411,124,458,159,498,187,515,182,515,156,502,119,461,92,413,74,366,65,328"/>
+<area shape="rect" id="Node000012" href="$classgem__grid.html" title="7x7 diamond&#45;shaped board for Diamond Tic&#45;Tac&#45;Toe." alt="" coords="210,563,284,589"/>
+<area shape="poly" id="edge12_Node000000_Node000012" title=" " alt="" coords="62,324,73,374,90,435,118,496,137,524,159,549,183,563,212,573,207,573,181,568,156,553,133,527,113,499,85,436,68,376,62,329"/>
+</map>

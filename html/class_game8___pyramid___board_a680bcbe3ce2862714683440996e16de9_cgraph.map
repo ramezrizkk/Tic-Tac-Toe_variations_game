@@ -1,0 +1,13 @@
+<map id="Game8_Pyramid_Board::is_draw" name="Game8_Pyramid_Board::is_draw">
+<area shape="rect" id="Node000001" title="Checks if board is full without winner." alt="" coords="5,64,165,107"/>
+<area shape="rect" id="Node000002" href="$class_game8___pyramid___board.html#ad8f99832eb94867c8369120e38e9e9d7" title="Checks if opponent has winning condition." alt="" coords="213,5,372,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,61,202,52,198,54,164,66"/>
+<area shape="rect" id="Node000004" href="$class_game8___pyramid___board.html#a2dcb81bbdbc7bd69528977ee970ab3f3" title="Checks if player has three marks in row, column, or diagonal." alt="" coords="420,64,579,107"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="165,83,406,83,404,88,165,88"/>
+<area shape="rect" id="Node000005" href="$class_game8___pyramid___board.html#a7a01f1311861178c5108f6a08050f0d1" title="Checks if coordinates are within pyramid shape." alt="" coords="213,123,372,165"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="163,105,203,118,197,118,162,110"/>
+<area shape="rect" id="Node000003" href="$class_player.html#af56f0bf98c0423a3a75b0848607d03a4" title="Get the player&#39;s symbol." alt="" coords="627,43,761,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="372,30,614,49,609,51,373,35"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="370,46,410,59,405,59,370,51"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="579,71,615,68,609,69,580,76"/>
+</map>

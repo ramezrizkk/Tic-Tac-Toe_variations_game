@@ -1,0 +1,5 @@
+<map id="gem_grid" name="gem_grid">
+<area shape="rect" id="Node000001" title="7x7 diamond&#45;shaped board for Diamond Tic&#45;Tac&#45;Toe." alt="" coords="9,421,133,640"/>
+<area shape="rect" id="Node000002" href="$class_board.html" title=" " alt="" coords="5,5,137,373"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,385,74,422,69,421,71,391"/>
+</map>

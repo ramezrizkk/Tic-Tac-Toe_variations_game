@@ -1,0 +1,27 @@
+<map id="Player::get_name" name="Player::get_name">
+<area shape="rect" id="Node000001" title="Get the player&#39;s name." alt="" coords="341,275,464,301"/>
+<area shape="rect" id="Node000002" href="$class_four_in_row___u_i.html#a9ba7b80a0c71ccaa0317c30f4287f616" title="Gets column choice from player (human or computer)." alt="" coords="112,5,284,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="394,259,383,213,364,155,334,96,314,69,291,46,276,35,274,30,295,42,318,66,338,93,369,153,389,212,399,260"/>
+<area shape="rect" id="Node000003" href="$classgem__interaction.html#ad5ee09c708aa16e5ef4a54984671401c" title="Gets move from current player." alt="" coords="109,56,287,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="391,260,377,224,357,179,328,134,291,97,274,86,273,81,295,93,332,131,361,176,382,221,396,261"/>
+<area shape="rect" id="Node000004" href="$class_ghost_u_i.html#afa394e9f950b241c8ee20dc45afa7a59" title="Gets move from player with validation." alt="" coords="130,107,266,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="385,261,348,204,322,173,292,148,267,135,266,130,294,143,326,169,353,201,391,261"/>
+<area shape="rect" id="Node000005" href="$class_infinity_x_o___u_i.html#a15d92544970c320d8eec8b6007f0e1fa" title="Retrieves the next move from a player." alt="" coords="115,157,280,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="376,264,339,231,292,198,266,187,265,182,294,194,342,227,382,264"/>
+<area shape="rect" id="Node000006" href="$class_mega_game_interface.html#a3c5f79801807230301ad24cc5b96601e" title="Gets move from player with zone playability validation." alt="" coords="124,208,272,251"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="337,271,272,253,272,248,342,269"/>
+<area shape="rect" id="Node000007" href="$class_misere_x_o___u_i.html#a6403695b752a9d4788a8c40ccbc54d9d" title="Retrieves the next move from a player." alt="" coords="115,275,280,301"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="323,289,282,291,280,285,328,287"/>
+<area shape="rect" id="Node000008" href="$class_obstacles_t_t_t___u_i.html#a25b72a0715b20c4ec952fc31f0808e31" title="Gets move from player (coordinates)." alt="" coords="103,325,293,352"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="329,307,256,327,254,322,333,304"/>
+<area shape="rect" id="Node000009" href="$class_s_u_s___u_i.html#a621a4bfadf8d79f2b2b66f2241c310c3" title="Retrieves the next move from a player." alt="" coords="130,376,266,403"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="376,310,338,341,294,366,264,378,262,373,292,362,335,337,372,313"/>
+<area shape="rect" id="Node000010" href="$class_t_t_t5x5___u_i.html#ab7146b2985c9e71b2045bf3c7990ded3" title="Gets move coordinates from player." alt="" coords="122,427,274,453"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="388,313,350,368,324,394,294,417,270,429,268,424,292,412,320,390,346,364,384,316"/>
+<area shape="rect" id="Node000011" href="$class_word_game___u_i.html#a4a4221290564dc66b7e16f6ce3ae56d7" title="Retrieves the next move from a player (row, column, and letter)." alt="" coords="112,477,284,504"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="394,314,380,351,359,392,330,433,295,467,274,479,272,474,291,463,326,429,354,389,375,349,390,318"/>
+<area shape="rect" id="Node000012" href="$class_game_manager.html#a71f46d5189dac5c773f608cea1b5a203" title="Run the main game loop until someone wins or the game ends." alt="" coords="132,528,264,555"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="398,315,387,362,366,416,336,471,317,496,295,518,265,534,263,529,291,514,313,493,332,468,362,414,382,360,394,319"/>
+<area shape="rect" id="Node000013" href="$_main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,528,55,555"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="115,544,55,544,55,539,117,539"/>
+</map>

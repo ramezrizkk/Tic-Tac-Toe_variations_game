@@ -1,0 +1,5 @@
+<map id="GhostHuman" name="GhostHuman">
+<area shape="rect" id="Node000001" title="Human player for Memory Tic&#45;Tac&#45;Toe." alt="" coords="6,315,115,405"/>
+<area shape="rect" id="Node000002" href="$class_player.html" title=" " alt="" coords="5,5,116,267"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,279,63,315,58,314,60,284"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="GhostBoard::game_is_over" name="GhostBoard::game_is_over">
+<area shape="rect" id="Node000001" title="Determines if game has ended (win or draw)." alt="" coords="5,31,185,57"/>
+<area shape="rect" id="Node000002" href="$class_ghost_board.html#a4189069f8f3f574eaa795c48be0902e5" title="Checks if board is full without winner." alt="" coords="233,5,376,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,30,220,29,214,30,186,36"/>
+<area shape="rect" id="Node000003" href="$class_ghost_board.html#ac70ce665ff27f19200a359469a5ca392" title="Checks if player has three hidden marks in a row." alt="" coords="424,31,559,57"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="185,41,409,41,408,47,185,47"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="377,26,411,33,406,33,376,31"/>
+<area shape="rect" id="Node000004" href="$class_player.html#af56f0bf98c0423a3a75b0848607d03a4" title="Get the player&#39;s symbol." alt="" coords="607,31,741,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="560,41,594,44,589,44,560,47"/>
+</map>

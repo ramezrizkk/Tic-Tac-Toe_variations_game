@@ -1,0 +1,9 @@
+<map id="WordGame_UI::setup_players" name="WordGame_UI::setup_players">
+<area shape="rect" id="Node000001" title="Custom setup for players, uses &#39;L1&#39; and &#39;L2&#39; as default symbols." alt="" coords="5,64,153,107"/>
+<area shape="rect" id="Node000002" href="$class_word_game___u_i.html#a9e165eff05532de5ee93fac5c6303f85" title="Creates a generic Player&lt;char&gt; object (as we don&#39;t need a custom WordGame_Player)." alt="" coords="221,5,372,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,63,208,50,203,52,154,68"/>
+<area shape="rect" id="Node000003" href="$class_u_i.html#a7b1603de1f73fbb4006e4f00a27c44da" title=" " alt="" coords="201,72,392,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,83,188,85,182,86,153,88"/>
+<area shape="rect" id="Node000004" href="$class_u_i.html#ac3d45fea2bbcaa0372d8e5101e116ca1" title=" " alt="" coords="220,123,372,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="153,103,208,119,203,120,153,108"/>
+</map>

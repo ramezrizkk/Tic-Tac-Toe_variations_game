@@ -1,0 +1,5 @@
+<map id="Game8_Pyramid_UI::setup_players" name="Game8_Pyramid_UI::setup_players">
+<area shape="rect" id="Node000001" title="Sets up two players for the game." alt="" coords="5,5,185,48"/>
+<area shape="rect" id="Node000002" href="$class_game8___pyramid___u_i.html#a615ad0ed91c03bfbe35dfb0c959fee65" title="Creates player of specified type." alt="" coords="233,5,416,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,24,219,26,214,27,185,29"/>
+</map>

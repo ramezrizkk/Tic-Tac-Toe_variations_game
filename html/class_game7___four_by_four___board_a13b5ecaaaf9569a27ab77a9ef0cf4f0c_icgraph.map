@@ -1,0 +1,8 @@
+<map id="Game7_FourByFour_Board::is_lose" name="Game7_FourByFour_Board::is_lose">
+<area shape="rect" id="Node000001" title="Check if a player has lost." alt="" coords="460,5,639,48"/>
+<area shape="rect" id="Node000002" href="$class_game7___four_by_four___board.html#afcabb968e11596c9232dd0064c83d830" title="Check if the game is over." alt="" coords="5,5,185,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="442,23,412,25,233,25,185,26,185,21,233,20,412,20,447,23"/>
+<area shape="rect" id="Node000003" href="$class_game7___four_by_four___board.html#a27285eced24ff19017061a3c8254c7f3" title="Check if the game ended in a draw." alt="" coords="233,35,412,77"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="447,40,413,47,412,42,442,40"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="215,43,185,41,185,36,220,42"/>
+</map>

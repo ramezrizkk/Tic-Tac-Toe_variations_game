@@ -1,0 +1,5 @@
+<map id="MoveMoveChar::get_to_y" name="MoveMoveChar::get_to_y">
+<area shape="rect" id="Node000001" title=" " alt="" coords="233,13,404,40"/>
+<area shape="rect" id="Node000002" href="$class_game7___four_by_four___board.html#a93b3c2fccfa2687302a900e2ec2493c4" title="Update the board with a new move." alt="" coords="5,5,185,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,27,185,29,185,24,220,26"/>
+</map>

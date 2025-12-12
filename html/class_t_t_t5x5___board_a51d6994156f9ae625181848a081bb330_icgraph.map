@@ -1,0 +1,9 @@
+<map id="TTT5x5_Board::game_is_over" name="TTT5x5_Board::game_is_over">
+<area shape="rect" id="Node000001" title="Determines if 24 moves have been made." alt="" coords="214,48,361,91"/>
+<area shape="rect" id="Node000002" href="$class_t_t_t5x5___board.html#a8718ca35626ba3ea2b19c9d985af8538" title="Checks if players have equal triplets at game end." alt="" coords="5,5,166,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,48,141,35,141,30,201,46"/>
+<area shape="rect" id="Node000003" href="$class_t_t_t5x5___board.html#a79dc130711db7f178d3d389ff55b4b37" title="Checks if player has fewer triplets than opponent at game end." alt="" coords="7,56,164,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,70,165,72,164,67,201,69"/>
+<area shape="rect" id="Node000004" href="$class_t_t_t5x5___board.html#a24ab8eae5cf0b7bb45c066db28e20a1d" title="Checks if player has more triplets than opponent at game end." alt="" coords="9,107,162,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="201,91,142,109,141,104,196,92"/>
+</map>

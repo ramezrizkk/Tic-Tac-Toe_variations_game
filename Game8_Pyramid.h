@@ -102,5 +102,6 @@ public:
      */
     Player<char>** setup_players() override;
 };
+//
 
 #endif

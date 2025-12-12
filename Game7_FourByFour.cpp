@@ -1,3 +1,9 @@
+/**
+ * @file FourInRow_Classes.cpp
+ * @brief Implementation of Four-in-a-Row game classes.
+ *
+ * Contains the implementation of FourInRow_Board and FourInRow_UI.
+ */
 #include "Game7_FourByFour.h"
 #include <iostream>
 #include <cstdlib>

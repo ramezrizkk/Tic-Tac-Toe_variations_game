@@ -1,3 +1,10 @@
+/**
+ * @file Game13_MemoryTTT.h
+ * @brief Memory Tic-Tac-Toe where placed marks become hidden.
+ *
+ * Provides GhostBoard, GhostCPU, GhostHuman, and GhostUI classes.
+ * Players place marks that are hidden immediately, testing memory.
+ */
 #ifndef _GHOST_TIC_TAC_TOE_H
 #define _GHOST_TIC_TAC_TOE_H
 
@@ -11,11 +18,20 @@
 using namespace std;
 
 // Class representing the game board where marks disappear
+/**
+ * @class GhostBoard
+ * @brief 3x3 board where marks are hidden after placement.
+ *
+ * Uses dual state tracking: internal_state stores actual marks,
+ * while board displays '0' to hide them from players.
+ */
 class GhostBoard : public Board<char> {
 private:
-    char internal_state[3][3]; // The "Real" board that stores the moves
+    char internal_state[3][3]; ///< Hidden storage for actual marks
+
 
 public:
+    /** @brief Constructs empty board with both states cleared. */
     GhostBoard() : Board<char>(3, 3) {
         n_moves = 0;
         // Initialization loop
@@ -30,11 +46,23 @@ public:
     // --- GAME STATUS CHECKS (Moved to top) ---
 
     // Checks if the move is legal by looking at the HIDDEN board
+
+    /**
+     * @brief Checks if a cell is occupied in hidden state.
+     * @param r Row coordinate.
+     * @param c Column coordinate.
+     * @return true if cell occupied, false otherwise.
+     */
     bool validate_coordinate(int r, int c) {
         if (r < 0 || r >= rows || c < 0 || c >= columns) return true; // Out of bounds treated as invalid
         return internal_state[r][c] != 0; // Returns true if occupied
     }
 
+    /**
+     * @brief Checks if player has three hidden marks in a row.
+     * @param p Pointer to player to check.
+     * @return true if player wins, false otherwise.
+     */
     bool is_win(Player<char>* p) override {
         char token = p->get_symbol();
 
@@ -60,21 +88,37 @@ public:
     }
 
     // Returns true if board is full and no winner
+    /**
+     * @brief Checks if board is full without winner.
+     * @param p Pointer to player to check.
+     * @return true if draw, false otherwise.
+     */
     bool is_draw(Player<char>* p) override {
         return (n_moves >= 9 && !is_win(p));
     }
 
+    /**
+     * @brief Determines if game has ended (win or draw).
+     * @param p Pointer to player to check.
+     * @return true if game over, false otherwise.
+     */
     bool game_is_over(Player<char>* p) override {
         return is_win(p) || is_draw(p);
     }
 
     // Not used in this logic
+        /** @brief Not used (returns false). */
     bool is_lose(Player<char>* p) override {
         return false;
     }
 
     // --- MODIFICATION LOGIC (Moved to bottom) ---
 
+    /**
+     * @brief Places mark in hidden state and masks it on visible board.
+     * @param move Contains coordinates and player's symbol.
+     * @return true if move applied, false otherwise.
+     */
     bool update_board(Move<char>* move) override {
         int r = move->get_x();
         int c = move->get_y();
@@ -100,25 +144,49 @@ public:
 };
 
 // Swapped Order: CPU defined before Human
+/**
+ * @class GhostCPU
+ * @brief AI player that makes random valid moves.
+ */
 class GhostCPU : public Player<char> {
 public:
+    /** @brief Constructs AI player with RANDOM type. */
     GhostCPU(string n, char symbol) : Player<char>(n, symbol, PlayerType::RANDOM) {}
 
     void get_move(int& x, int& y) {} // Logic handled in UI
 };
 
+/**
+ * @class GhostHuman
+ * @brief Human player for Memory Tic-Tac-Toe.
+ */
 class GhostHuman : public Player<char> {
 public:
+    /** @brief Constructs human player with HUMAN type. */
     GhostHuman(string n, char symbol) : Player<char>(n, symbol, PlayerType::HUMAN) {}
 
     void get_move(int& x, int& y) {} // Logic handled in UI
 };
 
+/**
+ * @class GhostUI
+ * @brief UI for Memory Tic-Tac-Toe game.
+ *
+ * Handles hidden board display and move input with validation.
+ */
 class GhostUI : public UI<char> {
 public:
+    /** @brief Constructs UI with game warning message. */
     GhostUI() : UI<char>("Game 13: Memory Tic-Tac-Toe\n\nWarning: Marks are invisible after placement.\n", 3) {}
 
     // Moved create_player to the top of the class
+    /**
+     * @brief Creates player (AI or human).
+     * @param name Player name.
+     * @param symbol Player symbol ('X' or 'O').
+     * @param type Player type (RANDOM or HUMAN).
+     * @return Pointer to new Player instance.
+     */
     Player<char>* create_player(string& name, char symbol, PlayerType type) override {
         if (type == PlayerType::RANDOM) {
             return new GhostCPU(name, symbol);
@@ -129,6 +197,11 @@ public:
     }
 
     // Main input logic
+    /**
+     * @brief Gets move from player with validation.
+     * @param player Pointer to current player.
+     * @return Pointer to new Move instance.
+     */
     Move<char>* get_move(Player<char>* player) override {
         int r, c;
         GhostBoard* g_board = (GhostBoard*)player->get_board_ptr();

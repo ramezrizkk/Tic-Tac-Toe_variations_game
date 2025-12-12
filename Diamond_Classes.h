@@ -1,3 +1,11 @@
+/**
+ * @file Diamond_Classes.h
+ * @brief Diamond-shaped Tic-Tac-Toe variant on 7x7 grid.
+ *
+ * Provides gem_grid, human_participant, ai_participant, and gem_interaction
+ * classes for a game where players need both 3-in-a-row and 4-in-a-row in
+ * different orientations to win.
+ */
 #ifndef GEM_TICTACTOE_DEF
 #define GEM_TICTACTOE_DEF
 
@@ -10,10 +18,19 @@
 using namespace std;
 
 // Implements a diamond-shaped Tic-Tac-Toe variant on a 7x7 grid
+/**
+ * @class gem_grid
+ * @brief 7x7 diamond-shaped board for Diamond Tic-Tac-Toe.
+ *
+ * Out-of-bounds cells are marked with space. Win requires both a triplet
+ * (3 marks) and quartet (4 marks) in different orientations (horizontal,
+ * vertical, diagonal, anti-diagonal).
+ */
 class gem_grid : public Board<char>
 {
 public:
     // Grid dimensions are fixed at 7x7 for the diamond layout
+     /** @brief Constructs 7x7 diamond board with out-of-bounds cells marked. */
     gem_grid() : Board<char>(7, 7)
     {
         n_moves = 0;
@@ -68,6 +85,11 @@ public:
     }
 
     // Process a player's move attempt
+    /**
+     * @brief Places mark on valid diamond cells only.
+     * @param move Contains coordinates and player's mark.
+     * @return true if move valid and applied, false otherwise.
+     */
     bool update_board(Move<char>* action) override
     {
         int row = action->get_x();
@@ -93,6 +115,12 @@ public:
     }
 
     // Scan for any three consecutive symbols and identify the alignment
+    /**
+     * @brief Searches for any 3 consecutive marks of player.
+     * @param player_mark The symbol to search for.
+     * @param orientation Output parameter for found orientation.
+     * @return true if triplet found, false otherwise.
+     */
     bool validate_triplet(char player_mark, string& orientation)
     {
         player_mark = toupper(player_mark);
@@ -161,6 +189,12 @@ public:
     }
 
     // Scan for any four consecutive symbols and identify the alignment
+    /**
+     * @brief Searches for any 4 consecutive marks of player.
+     * @param player_mark The symbol to search for.
+     * @param orientation Output parameter for found orientation.
+     * @return true if quartet found, false otherwise.
+     */
     bool validate_quartet(char player_mark, string& orientation)
     {
         player_mark = toupper(player_mark);
@@ -233,6 +267,11 @@ public:
     }
 
     // Determine if the player has met the win condition
+    /**
+     * @brief Checks if player has both triplet and quartet in different orientations.
+     * @param participant Pointer to player to check.
+     * @return true if player meets win condition, false otherwise.
+     */
     bool is_win(Player<char>* participant) override
     {
         char target_symbol = toupper(participant->get_symbol());
@@ -252,6 +291,11 @@ public:
     }
 
     // Check for draw condition (no empty cells remaining)
+    /**
+     * @brief Checks if board is full without winner.
+     * @param participant Pointer to player to check.
+     * @return true if draw, false otherwise.
+     */
     bool is_draw(Player<char>* participant) override
     {
         int vacant_cells = 0;
@@ -271,12 +315,18 @@ public:
     }
 
     // Overall game termination verification
+    /**
+     * @brief Determines if game has ended (win or draw).
+     * @param participant Pointer to player to check.
+     * @return true if game over, false otherwise.
+     */
     bool game_is_over(Player<char>* participant) override
     {
         return is_win(participant) || is_draw(participant);
     }
 
     // Loss condition check (not applicable to this variant)
+    /** @brief is_lose not applicable (returns false). */
     bool is_lose(Player<char>* participant) override
     {
         return false;
@@ -284,9 +334,14 @@ public:
 };
 
 // Controller for human participants
+/**
+ * @class human_participant
+ * @brief Controller for human players in Diamond game.
+ */
 class human_participant : public Player<char>
 {
 public:
+    /** @brief Constructs human player with name and symbol. */
     human_participant(string identifier, char marker)
         : Player<char>(identifier, marker, PlayerType::HUMAN)
     {
@@ -298,9 +353,14 @@ public:
 };
 
 // Controller for AI participants
+/**
+ * @class ai_participant
+ * @brief Controller for AI players in Diamond game (random moves).
+ */
 class ai_participant : public Player<char>
 {
 public:
+    /** @brief Constructs AI player with name, symbol, and seeds random generator. */
     ai_participant(string identifier, char marker)
         : Player<char>(identifier, marker, PlayerType::RANDOM)
     {
@@ -313,15 +373,27 @@ public:
 };
 
 // User interaction management
+/**
+ * @class gem_interaction
+ * @brief UI for Diamond Tic-Tac-Toe game.
+ *
+ * Handles move input for humans and automated random moves for AI.
+ */
 class gem_interaction : public UI<char>
 {
 public:
+    /** @brief Constructs UI with game objective message. */
     gem_interaction()
         : UI<char>("Game 6: Diamond Tic-Tac-Toe\nObjective: Create BOTH a 3-in-a-row AND a 4-in-a-row in DIFFERENT orientations\n", 3)
     {
     }
 
     // Handle move acquisition for current player
+    /**
+     * @brief Gets move from current player.
+     * @param current Pointer to player whose turn it is.
+     * @return Pointer to new Move instance.
+     */
     Move<char>* get_move(Player<char>* current) override
     {
         int row, col;
@@ -381,6 +453,14 @@ public:
     }
 
     // Player instance factory
+        /**
+     * @brief Creates player instance (human or AI).
+     * @param identifier Player name.
+     * @param symbol Player mark ('X' or 'O').
+     * @param kind Player type (HUMAN or RANDOM).
+     * @return Pointer to new Player instance.
+     */
+
     Player<char>* create_player(string& identifier, char symbol, PlayerType kind) override
     {
         if (kind == PlayerType::RANDOM)

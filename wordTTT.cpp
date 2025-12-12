@@ -1,3 +1,10 @@
+/**
+ * @file wordTTT.cpp
+ * @brief Implementation of Word Tic-Tac-Toe game classes.
+ *
+ * Contains ThreeWord_Board and WordGame_UI implementations with dictionary loading
+ * and word validation logic.
+ */
 #include <iostream>
 #include <algorithm> // for transform
 #include <cctype>    // for toupper

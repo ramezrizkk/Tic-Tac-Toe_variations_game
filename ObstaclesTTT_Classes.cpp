@@ -1,3 +1,7 @@
+/**
+ * @file ObstaclesTTT_Classes.cpp
+ * @brief Implementation of Obstacles Tic-Tac-Toe game classes.
+ */
 #include "ObstaclesTTT_Classes.h"
 
 void ObstaclesTTT_Board::add_random_obstacles(int count) {

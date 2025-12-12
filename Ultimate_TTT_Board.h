@@ -1,3 +1,11 @@
+/**
+ * @file Ultimate_TTT_Board.h
+ * @brief Ultimate Tic-Tac-Toe on a 9x9 grid composed of nine 3x3 zones.
+ *
+ * Provides SuperGrid and MegaGameInterface classes. Players play on a local
+ * 3x3 zone, and winning a zone marks it on the global 3x3 grid. Win the global
+ * grid to win the game.
+ */
 #ifndef _MEGA_TICTACTOE_H
 #define _MEGA_TICTACTOE_H
 
@@ -10,11 +18,20 @@
 using namespace std;
 
 // Represents the 9x9 grid composed of 9 smaller 3x3 zones
+/**
+ * @class SuperGrid
+ * @brief 9x9 board made of nine 3x3 zones for Ultimate Tic-Tac-Toe.
+ *
+ * Each 3x3 zone tracks its own winner. Winning a zone claims it on the
+ * main 3x3 grid. Win by getting three zones in a row.
+ */
 class SuperGrid : public Board<char> {
 private:
-    char zone_winners[3][3]; // Stores the winner of each local 3x3 zone
+    char zone_winners[3][3]; ///< Stores winner of each 3x3 zone
+
 
 public:
+    /** @brief Constructs empty 9x9 board and clears zone winners. */
     SuperGrid() : Board<char>(9, 9) {
         // Clear the main 9x9 grid
         for (int r = 0; r < 9; ++r) {
@@ -30,8 +47,12 @@ public:
         }
     }
 
-    // --- WIN CHECKING LOGIC (Moved to Top) ---
-
+    // --- WIN CHECKING LOGIC ---
+    /**
+     * @brief Checks if player has three zones in a row.
+     * @param p Pointer to player to check.
+     * @return true if player wins, false otherwise.
+     */
     bool is_win(Player<char>* p) override {
         char token = p->get_symbol();
 
@@ -54,19 +75,34 @@ public:
         return (d1 || d2);
     }
 
+    /**
+     * @brief Checks if all 81 cells are filled without winner.
+     * @param p Pointer to player to check.
+     * @return true if draw, false otherwise.
+     */
     bool is_draw(Player<char>* p) override {
         // Game ends in draw if all 81 moves are made without a global winner
         return (n_moves == 81 && !is_win(p));
     }
 
+    /**
+     * @brief Determines if game has ended (win or draw).
+     * @param p Pointer to player to check.
+     * @return true if game over, false otherwise.
+     */
     bool game_is_over(Player<char>* p) override {
         return is_win(p) || is_draw(p);
     }
 
+    /** @brief Not used (returns false). */
     bool is_lose(Player<char>* p) override { return false; }
 
     // --- GAMEPLAY LOGIC ---
-
+    /**
+     * @brief Places mark in a 3x3 zone if zone is valid and not full.
+     * @param move Contains coordinates and player's symbol.
+     * @return true if move applied, false otherwise.
+     */
     bool update_board(Move<char>* move) override {
         int row = move->get_x();
         int col = move->get_y();
@@ -103,6 +139,12 @@ public:
     }
 
     // Helper: Validates if a zone is playable for the UI
+    /**
+     * @brief Checks if a 3x3 zone is available for play (not won or full).
+     * @param br Zone row index (0-2).
+     * @param bc Zone column index (0-2).
+     * @return true if zone is playable, false otherwise.
+     */
     bool isZonePlayable(int br, int bc) {
         return (zone_winners[br][bc] == '.' && !isZoneFull(br, bc));
     }
@@ -111,6 +153,12 @@ private:
     // --- PRIVATE HELPERS (Moved to Bottom) ---
 
     // Checks if a specific 3x3 zone has been won
+    /**
+     * @brief Checks a specific 3x3 zone for a winner.
+     * @param block_row Zone row index (0-2).
+     * @param block_col Zone column index (0-2).
+     * @return Winning symbol, or '.' if no winner.
+     */
     char scanForZoneWin(int block_row, int block_col) {
         int base_r = block_row * 3;
         int base_c = block_col * 3;
@@ -144,6 +192,12 @@ private:
     }
 
     // Checks if a zone has no empty spots left
+    /**
+     * @brief Checks if a 3x3 zone has no empty cells.
+     * @param block_row Zone row index (0-2).
+     * @param block_col Zone column index (0-2).
+     * @return true if zone is full, false otherwise.
+     */
     bool isZoneFull(int block_row, int block_col) {
         int base_r = block_row * 3;
         int base_c = block_col * 3;
@@ -158,11 +212,22 @@ private:
         return true;
     }
 };
-
+/**
+ * @class MegaGameInterface
+ * @brief UI for Ultimate Tic-Tac-Toe game.
+ *
+ * Displays 9x9 board with zone separators and handles move input
+ * for human and computer players.
+ */
 class MegaGameInterface : public UI<char> {
 public:
+    /** @brief Constructs UI with cell width of 3. */
     MegaGameInterface() : UI<char>(3) {}
 
+    /**
+     * @brief Displays 9x9 board formatted with 3x3 zone separators.
+     * @param matrix The board state to display.
+     */
     void display_board_matrix(const vector<vector<char>>& matrix) const override {
         cout << "\n    0 1 2   3 4 5   6 7 8\n";
         cout << "  #######################\n";
@@ -181,6 +246,11 @@ public:
         cout << endl;
     }
 
+    /**
+     * @brief Gets move from player with zone playability validation.
+     * @param p Pointer to current player.
+     * @return Pointer to new Move instance.
+     */
     Move<char>* get_move(Player<char>* p) override {
         int row, col;
 

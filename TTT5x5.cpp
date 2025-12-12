@@ -1,3 +1,7 @@
+/**
+ * @file TTT5x5.cpp
+ * @brief Implementation of 5x5 Tic-Tac-Toe game classes.
+ */
 #include "TTT5x5.h"
 #include <iostream>
 #include <cmath>

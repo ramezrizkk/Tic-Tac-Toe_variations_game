@@ -1,3 +1,7 @@
+/**
+ * @file Game8_Pyramid.cpp
+ * @brief Implementation of Pyramid Tic-Tac-Toe game classes.
+ */
 #include "Game8_Pyramid.h"
 #include <iostream>
 #include <cstdlib>
